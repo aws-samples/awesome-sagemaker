@@ -125,8 +125,9 @@
   - [Choosing the right GPU for deep learning on AWS](https://towardsdatascience.com/choosing-the-right-gpu-for-deep-learning-on-aws-d69c157d8c86)
 - ### Edge Deployments
   - [Industrial defect detection with computer vision using Amazon SageMaker ](https://www.youtube.com/watch?v=v6OHL3LTjkA)
-  - [ML@Edge with SageMaker Edge Manager](https://github.com/aws-samples/amazon-sagemaker-edge-manager-workshop)
   - [Using Amazon SageMaker Edge Manager and AWS IoT Greengrass V2](https://aws.amazon.com/blogs/machine-learning/build-machine-learning-at-the-edge-applications-using-amazon-sagemaker-edge-manager-and-aws-iot-greengrass-v2/)
+  - [ML@Edge with SageMaker Neo & Edge Manager - Getting Started](https://github.com/aws-samples/ml-edge-getting-started)
+  - [ML@Edge with SageMaker Edge Manager - Workshop](https://github.com/aws-samples/amazon-sagemaker-edge-manager-workshop)
 - ### Debugging
   - [Use TensorBoard in Amazon SageMaker Studio](https://docs.aws.amazon.com/sagemaker/latest/dg/studio-tensorboard.html)
   - [Visualize Amazon SageMaker Training Jobs with TensorBoard](https://sagemaker-examples.readthedocs.io/en/latest/sagemaker-python-sdk/tensorboard_keras/tensorboard_keras.html)
