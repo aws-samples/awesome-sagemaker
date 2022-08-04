@@ -9,10 +9,8 @@
   <a href="https://github.com/sindresorhus/awesome">
   <img src="https://awesome.re/badge.svg" alt="Awesome">
   </a>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsofianhamiti%2Fawesome-sagemaker&count_bg=%23198ED5&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="hits">
 </div>
-<p align="center">
-    <img alt="hit" style="display:none;" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsofianhamiti%2Fawesome-sagemaker&count_bg=%23198ED5&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false">
-</p>
 
 > A curated list of awesome references for Amazon SageMaker.
 
