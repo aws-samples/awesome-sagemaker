@@ -84,7 +84,11 @@
   - [Build trustworthy ML detection and monitor bias in ML models](https://www.youtube.com/watch?v=6BZropfX6hA)
 - ### Low-Code/No-Code
   - [Introduction to Amazon SageMaker Canvas](https://www.youtube.com/watch?v=Sy3GDQT6Lnk)
-  - [Canvas Immersion Day](https://catalog.us-east-1.prod.workshops.aws/workshops/80ba0ea5-7cf9-4b8c-9d3f-1cd988b6c071/en-US)
+  - [SageMaker Canvas Immersion Day](https://catalog.us-east-1.prod.workshops.aws/workshops/80ba0ea5-7cf9-4b8c-9d3f-1cd988b6c071/en-US)
+  - [AWS Machine Learning Low-Code Immersion Day](https://catalog.us-east-1.prod.workshops.aws/workshops/f560a788-af64-4e5a-a02c-a6c88516ab02/en-US/)
+- ### R
+  - [RStudio on SageMaker](https://docs.aws.amazon.com/sagemaker/latest/dg/rstudio.html)
+  - [Overview of possible ways of running R workloads on SageMaker](https://towardsdatascience.com/3-1-ways-of-running-r-on-amazon-sagemaker-13034a8f3686)
 
 <a name="mlops"></a>
 ## ML Operations
@@ -96,6 +100,7 @@
   - [Automate MLOps with SageMaker Projects](https://www.youtube.com/watch?v=3_cHnk9VSfQ)
   - [Introducing Amazon SageMaker Pipelines](https://www.youtube.com/watch?v=Hvz2GGU3Z8g)
   - [Building, automating, managing, and scaling ML workflows using Amazon SageMaker Pipelines](https://aws.amazon.com/blogs/machine-learning/building-automating-managing-and-scaling-ml-workflows-using-amazon-sagemaker-pipelines/)
+  - [Multi-branch training MLOps pipeline using AWS](https://aws.amazon.com/blogs/machine-learning/improve-your-data-science-workflow-with-a-multi-branch-training-mlops-pipeline-using-aws/)
 - ### Using Third-Party
   - [Create Amazon SageMaker projects using third-party source control and Jenkins](https://aws.amazon.com/blogs/machine-learning/create-amazon-sagemaker-projects-using-third-party-source-control-and-jenkins/)
   - [Build MLOps workflows with Amazon SageMaker projects, GitLab, and GitLab pipelines](https://aws.amazon.com/blogs/machine-learning/build-mlops-workflows-with-amazon-sagemaker-projects-gitlab-and-gitlab-pipelines/)
@@ -112,9 +117,6 @@
   - [Scale ML feature ingestion using Amazon SageMaker Feature Store](https://aws.amazon.com/blogs/machine-learning/scale-ml-feature-ingestion-using-amazon-sagemaker-feature-store/)
   - [Extend model lineage to include ML features using Amazon SageMaker Feature Store](https://aws.amazon.com/blogs/machine-learning/extend-model-lineage-to-include-ml-features-using-amazon-sagemaker-feature-store/)
   - [Control access to Amazon SageMaker Feature Store offline using AWS Lake Formation](https://aws.amazon.com/blogs/machine-learning/control-access-to-amazon-sagemaker-feature-store-offline-using-aws-lake-formation/)
-- ### R
-  - [RStudio on SageMaker](https://docs.aws.amazon.com/sagemaker/latest/dg/rstudio.html)
-  - [Overview of possible ways of running R workloads on SageMaker](https://towardsdatascience.com/3-1-ways-of-running-r-on-amazon-sagemaker-13034a8f3686)
 
 <a name="advanced-topics"></a>
 ## Advanced Topics
