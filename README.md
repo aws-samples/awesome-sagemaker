@@ -30,6 +30,7 @@
 <a name="getting-started"></a>
 ## Getting Started
 - [Introduction to Amazon SageMaker](https://www.youtube.com/watch?v=Qv_Tr_BCFCQ)
+- [Getting started with Amazon SageMaker Tutorials](https://aws.amazon.com/sagemaker/getting-started/)
 - [SageMaker Example Notebooks](https://sagemaker-examples.readthedocs.io/en/latest/)
 - [Amazon SageMaker 101 Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/0c6b8a23-b837-4e0f-b2e2-4a3ffd7d645b/en-US)
 - [SageMaker Immersion Day (hands-on labs)](https://catalog.us-east-1.prod.workshops.aws/workshops/63069e26-921c-4ce1-9cc7-dd882ff62575/en-US)
@@ -84,7 +85,6 @@
 - ### AutoML
   - [Using AutoML to create high-quality models with just a few clicks](https://www.youtube.com/watch?v=f9aCwmVWvC8)
   - [Using AutoML for Common Financial Services Use Cases](https://www.youtube.com/watch?v=r2-VmuUh7jM)
-- ### Model Monitoring
 - ### Explainability & Bias Detection
   - [Build trustworthy ML detection and monitor bias in ML models](https://www.youtube.com/watch?v=6BZropfX6hA)
 - ### Low-Code/No-Code
@@ -122,6 +122,9 @@
   - [Scale ML feature ingestion using Amazon SageMaker Feature Store](https://aws.amazon.com/blogs/machine-learning/scale-ml-feature-ingestion-using-amazon-sagemaker-feature-store/)
   - [Extend model lineage to include ML features using Amazon SageMaker Feature Store](https://aws.amazon.com/blogs/machine-learning/extend-model-lineage-to-include-ml-features-using-amazon-sagemaker-feature-store/)
   - [Control access to Amazon SageMaker Feature Store offline using AWS Lake Formation](https://aws.amazon.com/blogs/machine-learning/control-access-to-amazon-sagemaker-feature-store-offline-using-aws-lake-formation/)
+- ### Model Monitoring
+  - [The 4-types of model monitoring with SageMaker](https://docs.aws.amazon.com/sagemaker/latest/dg/model-monitor.html)
+  - [Retrain your model when data drift is detected](https://aws.amazon.com/blogs/machine-learning/automate-model-retraining-with-amazon-sagemaker-pipelines-when-drift-is-detected/)
 
 <a name="advanced-topics"></a>
 ## Advanced Topics
@@ -147,10 +150,7 @@
 - ### Debugging
   - [Use TensorBoard in Amazon SageMaker Studio](https://docs.aws.amazon.com/sagemaker/latest/dg/studio-tensorboard.html)
   - [Visualize Amazon SageMaker Training Jobs with TensorBoard](https://sagemaker-examples.readthedocs.io/en/latest/sagemaker-python-sdk/tensorboard_keras/tensorboard_keras.html)
-  - [Deep Dive on Amazon SageMaker Debugger & Amazon SageMaker Model Monitor](https://www.youtube.com/watch?v=0zqoeZxakOI) 
-- ### Model Monitor
-  - [The 4-types of model monitoring with SageMaker](https://docs.aws.amazon.com/sagemaker/latest/dg/model-monitor.html)
-  - [Retrain your model when data drift is detected](https://aws.amazon.com/blogs/machine-learning/automate-model-retraining-with-amazon-sagemaker-pipelines-when-drift-is-detected/)
+  - [Deep Dive on Amazon SageMaker Debugger & Amazon SageMaker Model Monitor](https://www.youtube.com/watch?v=0zqoeZxakOI)
 
 <a name="enterprise-architecture"></a>
 ## Enterprise & Architecture
