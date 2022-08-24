@@ -99,6 +99,7 @@
 <a name="mlops"></a>
 ## ML Operations
 - ### MLOps Foundations
+  - [Introduction to Amazon SageMaker MLOps](https://www.youtube.com/watch?v=FSOBmgT_9aQ)
   - [MLOps foundation roadmap for enterprises with Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/mlops-foundation-roadmap-for-enterprises-with-amazon-sagemaker/)
   - [Implementing MLOps practices with Amazon SageMaker, featuring Vanguard](https://www.youtube.com/watch?v=fuXUi_hoK78)
   - [MLOps Multi Account Setup with AWS CDK](https://github.com/aws-samples/sagemaker-custom-project-templates/tree/main/mlops-multi-account-cdk)
