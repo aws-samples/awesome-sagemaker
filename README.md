@@ -61,6 +61,7 @@
   - [Training - end-to-end example with Scikit-Learn](https://github.com/aws/amazon-sagemaker-examples/blob/main/sagemaker-python-sdk/scikit_learn_randomforest/Sklearn_on_SageMaker_end2end.ipynb)
   - [Training - end-to-end example with Script Mode](https://www.youtube.com/watch?v=x94hpOmKtXM)
   - [Using local mode](https://github.com/aws-samples/amazon-sagemaker-local-mode)
+  - [SageMaker Environment Variables](https://github.com/aws/sagemaker-training-toolkit/blob/master/ENVIRONMENT_VARIABLES.md)
 - ### Inference
   - [Amazon SageMaker Inference explained: Which style is right for you?](https://www.youtube.com/watch?v=bRUNpuRGeZc)
   - [Introduction to Amazon SageMaker Serverless Inference](https://www.youtube.com/watch?v=xIp2305saII)
@@ -174,12 +175,13 @@
 
 <a name="training-certification"></a>
 ## Training & Certification
+- ### Certification
+  - [AWS Certified Machine Learning - Specialty](https://aws.amazon.com/certification/certified-machine-learning-specialty/)
 - ### MOOCs
   - [Getting Started with AWS Machine Learning](https://www.coursera.org/learn/aws-machine-learning)
   - [Practical Data Science on the AWS Cloud Specialization](https://www.coursera.org/specializations/practical-data-science)
   - [Machine Learning University](https://aws.amazon.com/machine-learning/mlu/)
 - ### Digital & Classroom
-  - [AWS Certified Machine Learning - Specialty](https://aws.amazon.com/certification/certified-machine-learning-specialty/)
   - [Machine Learning Learning Plan](https://explore.skillbuilder.aws/learn/public/learning_plan/view/28/machine-learning-learning-plan)
   - [AWS Classroom Training](https://aws.amazon.com/training/classroom/?nc2=sb_tr_ct)
 - ### Tutorials
