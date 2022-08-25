@@ -39,6 +39,7 @@
 ## Core Functionalities
 - ### Developer Experience
   - [Onboard Quickly to Amazon SageMaker Studio](https://www.youtube.com/watch?v=wiDHCWVrjCU)
+  - [Building machine learning models in the cloud: A paradigm shift](https://towardsdatascience.com/building-machine-learning-models-in-the-cloud-a-paradigm-shift-ff7dbbc39312)
   - [Hosting VS Code on SageMaker](https://towardsdatascience.com/hosting-vs-code-in-sagemaker-studio-f211385e25f7)
   - [Using RStudio on SageMaker](https://www.rstudio.com/sagemaker/)
 - ### SDKs & Infrastructure-as-Code
