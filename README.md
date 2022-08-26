@@ -96,6 +96,7 @@
 - ### R
   - [RStudio on SageMaker](https://docs.aws.amazon.com/sagemaker/latest/dg/rstudio.html)
   - [Overview of possible ways of running R workloads on SageMaker](https://towardsdatascience.com/3-1-ways-of-running-r-on-amazon-sagemaker-13034a8f3686)
+  - [Create Amazon SageMaker model building pipelines and deploy R models using RStudio on Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/create-amazon-sagemaker-model-building-pipelines-and-deploy-r-models-using-rstudio-on-amazon-sagemaker/)
 
 <a name="mlops"></a>
 ## ML Operations
