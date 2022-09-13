@@ -108,7 +108,7 @@
 - ### SageMaker Pipelines
   - [Automate MLOps with SageMaker Projects](https://www.youtube.com/watch?v=3_cHnk9VSfQ)
   - [Introducing Amazon SageMaker Pipelines](https://www.youtube.com/watch?v=Hvz2GGU3Z8g)
-  - [Amazon SageMaker Pipelines Workshop] (https://github.com/aws-samples/amazon-sagemaker-mlops-workshop)
+  - [Amazon SageMaker Pipelines Workshop](https://github.com/aws-samples/amazon-sagemaker-mlops-workshop)
   - [Building, automating, managing, and scaling ML workflows using Amazon SageMaker Pipelines](https://aws.amazon.com/blogs/machine-learning/building-automating-managing-and-scaling-ml-workflows-using-amazon-sagemaker-pipelines/)
   - [Multi-branch training MLOps pipeline using AWS](https://aws.amazon.com/blogs/machine-learning/improve-your-data-science-workflow-with-a-multi-branch-training-mlops-pipeline-using-aws/)
 - ### Using Third-Party
