@@ -4,6 +4,7 @@
   - [blog] [MLOps foundation roadmap for enterprises with Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/mlops-foundation-roadmap-for-enterprises-with-amazon-sagemaker/)
   - [video] [Implementing MLOps practices with Amazon SageMaker, featuring Vanguard](https://www.youtube.com/watch?v=fuXUi_hoK78)
   - [MLOps Multi Account Setup with AWS CDK](https://github.com/aws-samples/sagemaker-custom-project-templates/tree/main/mlops-multi-account-cdk)
+
 - ### SageMaker Pipelines
   - [video] [Automate MLOps with SageMaker Projects](https://www.youtube.com/watch?v=3_cHnk9VSfQ)
   - [video] [Introducing Amazon SageMaker Pipelines](https://www.youtube.com/watch?v=Hvz2GGU3Z8g)

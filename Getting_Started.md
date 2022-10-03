@@ -18,9 +18,10 @@
   - [Blog] [AWS Well-Architected Machine Learning Lens](https://aws.amazon.com/blogs/architecture/introducing-the-new-aws-well-architected-machine-learning-lens/)
   
 ### ML Platform Setup
-  - [Setting up secure, well-governed machine learning environments on AWS](https://aws.amazon.com/blogs/mt/setting-up-machine-learning-environments-aws/)
+  - [blog] [Setting up secure, well-governed machine learning environments on AWS](https://aws.amazon.com/blogs/mt/setting-up-machine-learning-environments-aws/)
   - [External] [Enabling self-service provisioning of Amazon SageMaker Studio resources](https://towardsdatascience.com/enabling-self-service-provisioning-of-amazon-sagemaker-studio-resources-7ac017925016)
   - [External] [Industrializing an ML platform with Amazon SageMaker Studio](https://towardsdatascience.com/industrializing-an-ml-platform-with-amazon-sagemaker-studio-91b597802afe)
   - [External] [Scaling Enterprise ML Platforms with Modern Cloud Operations](https://towardsdatascience.com/scaling-enterprise-mlops-delivery-with-modern-cloud-operations-6888d7218be5)
   - [video] [Access SageMaker Studio via an external identity provider](https://www.youtube.com/watch?v=9CnFrSqvXYM)
   - [Video] [Onboard Quickly to Amazon SageMaker Studio](https://www.youtube.com/watch?v=wiDHCWVrjCU)
+  - [blog] [Secure multi-account model deployment with Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/part-1-secure-multi-account-model-deployment-with-amazon-sagemaker/)
