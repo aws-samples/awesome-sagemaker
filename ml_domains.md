@@ -1,0 +1,27 @@
+## ML Domains
+- ### Computer Vision
+  - [Using the TensorFlow 2 Object Detection API with Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/training-and-deploying-models-using-tensorflow-2-with-the-object-detection-api-on-amazon-sagemaker/)
+  - [Object detection with Detectron2 on Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/object-detection-with-detectron2-on-amazon-sagemaker/)
+  - [Semantic Segmantion with Hugging Face's Transformers & Amazon SageMaker](https://www.philschmid.de/image-segmentation-sagemaker)
+- ### Natural Language Processing
+  - [Hugging Face on Amazon SageMaker](https://huggingface.co/docs/sagemaker/main)
+  - [Hugging Face on Amazon SageMaker Tutorial - Part 1](https://www.youtube.com/watch?v=80ix-IyNnQI), [Part 2](https://www.youtube.com/watch?v=BqQ14SZ5tos), [Part 3](https://www.youtube.com/watch?v=oVIvXfeunv8) 
+  - [Hugging Face Transformers Amazon SageMaker Examples](https://github.com/huggingface/notebooks/tree/main/sagemaker)
+- ### Audio
+  - [Automatic Speech Recogntion with Hugging Face's Transformers & Amazon SageMaker](https://www.philschmid.de/automatic-speech-recognition-sagemaker)
+- ### Data Labeling
+  - [Introducing Amazon SageMaker Ground Truth Plus](https://www.youtube.com/watch?v=Y3Lo63yiqsU)
+  - [Labeling data with Label Studio on SageMaker](https://medium.com/geekculture/labeling-data-with-label-studio-on-sagemaker-e4b2d1b562f7)
+- ### AutoML
+  - [Using AutoML to create high-quality models with just a few clicks](https://www.youtube.com/watch?v=f9aCwmVWvC8)
+  - [Using AutoML for Common Financial Services Use Cases](https://www.youtube.com/watch?v=r2-VmuUh7jM)
+- ### Explainability & Bias Detection
+  - [Build trustworthy ML detection and monitor bias in ML models](https://www.youtube.com/watch?v=6BZropfX6hA)
+- ### Low-Code/No-Code
+  - [Introduction to Amazon SageMaker Canvas](https://www.youtube.com/watch?v=Sy3GDQT6Lnk)
+  - [SageMaker Canvas Immersion Day](https://catalog.us-east-1.prod.workshops.aws/workshops/80ba0ea5-7cf9-4b8c-9d3f-1cd988b6c071/en-US)
+  - [AWS Machine Learning Low-Code Immersion Day](https://catalog.us-east-1.prod.workshops.aws/workshops/f560a788-af64-4e5a-a02c-a6c88516ab02/en-US/)
+- ### R
+  - [RStudio on SageMaker](https://docs.aws.amazon.com/sagemaker/latest/dg/rstudio.html)
+  - [Overview of possible ways of running R workloads on SageMaker](https://towardsdatascience.com/3-1-ways-of-running-r-on-amazon-sagemaker-13034a8f3686)
+  - [Create Amazon SageMaker model building pipelines and deploy R models using RStudio on Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/create-amazon-sagemaker-model-building-pipelines-and-deploy-r-models-using-rstudio-on-amazon-sagemaker/)
