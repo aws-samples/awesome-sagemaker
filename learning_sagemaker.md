@@ -12,10 +12,10 @@
   - [AWS hands-on tutorials](https://aws.amazon.com/getting-started/hands-on/?getting-started-all.sort-by=item.additionalFields.sortOrder&getting-started-all.sort-order=asc&awsf.getting-started-category=category%23machine-learning&awsf.getting-started-level=*all&awsf.getting-started-content-type=*all)
 
 ## Community
-- [DataScienceOnAWS](https://www.youtube.com/channel/UCvlZKtekcKkBUuz8f9dhobw/featured)
+- [video] [DataScienceOnAWS](https://www.youtube.com/channel/UCvlZKtekcKkBUuz8f9dhobw/featured)
 - [Data Science on AWS GitHub](https://github.com/data-science-on-aws/data-science-on-aws)
 - [Amazon SageMaker Fridays](https://pages.awscloud.com/SageMakerFridays)
-- [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/category/artificial-intelligence/sagemaker/)
+- [blog] [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/category/artificial-intelligence/sagemaker/)
 - [AWS ML School](https://mlschool.splashthat.com/?sc_channel=sm&sc_campaign=Machine_Learning&sc_publisher=LINKEDIN&sc_geo=GLOBAL&sc_outcome=awareness&trk=machine_learning)
 - [AWS events](https://aws.amazon.com/events/)
 - [AWS re:Post](https://repost.aws/)

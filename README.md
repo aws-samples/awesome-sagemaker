@@ -16,23 +16,15 @@
 
 The curated list consists of the following sections.  
 
-[Getting Started](Getting_Started.md)  - Start here if you are setting up Sagemaker (including studio). 
-
-[Building ML Models](building_ml_models.md) - Contains resources used for data preparation, running notebooks and training models 
-
-[Deploying ML Models](deploying_ml_models.md) - Different ways to deploy models and their best practices
-
-[MLOps](mlops.md) - Machine Learning Operations.
-
-[Low Code/ No Code ML](low_code_no_code_ml.md) - Low code approach to date preparation and model building
-
-[ML Governance](ml_governance.md)
-
-[Responsible AI](responsible_ai.md)
-
-[ML Domains](ml_domains.md) - Deep dive on domains such as NLP, CV, Tabular, Audio and Reinforcement Learning.
-
-[Learning Sagemaker](learning_sagemaker.md)
+[Getting Started](Getting_Started.md)  - Start here if you are setting up Sagemaker (including studio).     
+[Building ML Models](building_ml_models.md) - Contains resources used for data preparation, running notebooks and training models     
+[Deploying ML Models](deploying_ml_models.md) - Different ways to deploy models and their best practices    
+[MLOps](mlops.md) - Machine Learning Operations.    
+[Low Code/ No Code ML](low_code_no_code_ml.md) - Low code approach to date preparation and model building    
+[ML Governance](ml_governance.md) - Data governance, model governance, security, cost   
+[Responsible AI](responsible_ai.md)    
+[ML Domains](ml_domains.md) - Deep dive on domains such as NLP, CV, Tabular, Audio and Reinforcement Learning.    
+[Learning Sagemaker](learning_sagemaker.md) - Trainings, certifications, books and community
 
 <a name="contributions" /></a>
 ## Contributions
