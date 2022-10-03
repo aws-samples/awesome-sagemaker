@@ -33,4 +33,4 @@ Maintainers
 - [Othmane Hamzaoui](https://github.com/Othmane796)
 - [Sofian Hamiti](https://github.com/SofianHamiti)
 - [Georgios Schinas](https://github.com/Georschi)
-- [Mithil Shah] (https://github.com/MithilShah)
+- [Mithil Shah](https://github.com/MithilShah)
