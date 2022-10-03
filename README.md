@@ -36,4 +36,4 @@ Maintainers
 - [Mithil Shah](https://github.com/MithilShah)
 
 ## How to Contribute
-If you have an interesting link to add to the list, follow the steps on [this(!https://www.dataschool.io/how-to-contribute-on-github/)] page to make changes to the repository and create a pull request. The pull request will be evaluated by the project owners and incorporated into the list. Please ensure that you add the link to the appropriate sub-page and the link points to unique content that is not already covered by one of the other links. Please feel free to open an issue to have a defunct link removed or corrected.
+If you have an interesting link to add to the list, follow the steps on [this](!https://www.dataschool.io/how-to-contribute-on-github/) page to make changes to the repository and create a pull request. The pull request will be evaluated by the project owners and incorporated into the list. Please ensure that you add the link to the appropriate sub-page and the link points to unique content that is not already covered by one of the other links. Please feel free to open an issue to have a defunct link removed or corrected.
