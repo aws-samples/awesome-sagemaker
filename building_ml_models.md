@@ -19,7 +19,7 @@
   
 - ### Data Processing
   - [SageMaker Processing](https://sagemaker.readthedocs.io/en/stable/amazon_sagemaker_processing.html#amazon-sagemaker-processing)
-  - ### Large Scale Data Processing
+  - #### Large Scale Data Processing
     - [blog] [Prepare data at scale in Amazon SageMaker Studio using serverless AWS Glue interactive sessions](https://aws.amazon.com/blogs/machine-learning/prepare-data-at-scale-in-amazon-sagemaker-studio-using-serverless-aws-glue-interactive-sessions/)
     - [Video] [Using Apache Spark on Amazon EMR with SageMaker](https://www.youtube.com/watch?v=RxRENYQBxZU)
     - [Video] [Scalable data preparation using Amazon SageMaker Studio notebooks - AWS Virtual Workshop](https://www.youtube.com/watch?v=UcRNNHuYsxE)
@@ -35,7 +35,7 @@
   - [video] [Training - end-to-end example with Script Mode](https://www.youtube.com/watch?v=x94hpOmKtXM)
   - [code] [Using local mode](https://github.com/aws-samples/amazon-sagemaker-local-mode)
   - [code] [SageMaker Environment Variables](https://github.com/aws/sagemaker-training-toolkit/blob/master/ENVIRONMENT_VARIABLES.md)
-  -  ### Distributed Training 
+  -  #### Distributed Training 
        - [Blog] [Choose the best data source for your Amazon SageMaker training job](https://aws.amazon.com/blogs/machine-learning/choose-the-best-data-source-for-your-amazon-sagemaker-training-job/)
        - [Blog] [Scalable Medical Computer Vision Model Training - Part 1](https://aws.amazon.com/blogs/industries/scalable-medical-computer-vision-model-training-with-amazon-sagemaker-part-1/) and [Part 2](https://aws.amazon.com/blogs/industries/scalable-medical-computer-vision-model-training-with-amazon-sagemaker-part-2)
 
