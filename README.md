@@ -26,14 +26,15 @@ The curated list consists of the following sections.
 [ML Domains](ml_domains.md) - Deep dive on domains such as NLP, CV, Tabular, Audio and Reinforcement Learning.    
 [Learning Sagemaker](learning_sagemaker.md) - Trainings, certifications, books and community
 
-<a name="contributions" /></a>
-## Contributions
-Maintainers 
+## :wrench: Maintainers 
 - [Bruno Pistone](https://github.com/brunopistone)
 - [Othmane Hamzaoui](https://github.com/Othmane796)
 - [Sofian Hamiti](https://github.com/SofianHamiti)
 - [Georgios Schinas](https://github.com/Georschi)
 - [Mithil Shah](https://github.com/MithilShah)
 
-## How to Contribute
-If you have an interesting link to add to the list, follow the steps on [this](https://www.dataschool.io/how-to-contribute-on-github/) page to make changes to the repository and create a pull request. The pull request will be evaluated by the project owners and incorporated into the list. Please ensure that you add the link to the appropriate sub-page and the link points to unique content that is not already covered by one of the other links. Please feel free to open an issue to have a defunct link removed or corrected.
+## :handshake: Contributing
+
+If you'd like to open an issue, for having a defunct link removed or corrected, or you want to propose interesting content and share it into the list through a pull request, please read our [contributing guidelines](./CONTRIBUTING.md).
+The pull request will be evaluated by the project owners and incorporated into the list. Please ensure that you add the link to the appropriate sub-page and the link points to unique content that is not already covered by one of the other links.
+We're extremely excited to receive contributions from the community, and we're still working on the best mechanism to take in examples from external sources.
