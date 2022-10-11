@@ -1,5 +1,5 @@
 ## ML Domains
-- ### Computer Vision
+- ### Computer Vision <a name="computer_vision"></a>
   - [blog] [Using the TensorFlow 2 Object Detection API with Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/training-and-deploying-models-using-tensorflow-2-with-the-object-detection-api-on-amazon-sagemaker/)
   - [blog] [Object detection with Detectron2 on Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/object-detection-with-detectron2-on-amazon-sagemaker/)
   - [external] [Semantic Segmantion with Hugging Face's Transformers & Amazon SageMaker](https://www.philschmid.de/image-segmentation-sagemaker)

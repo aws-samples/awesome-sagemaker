@@ -25,7 +25,7 @@ The curated list consists of the following sections.
 * [Responsible AI](responsible_ai.md)    
 * [ML Domains](ml_domains.md) - Deep dive on domains such as NLP, CV, Tabular, Audio and Reinforcement Learning.  
   - [Audio](audio.md)
-  - [Computer Vision](computer_vision.md)
+  - [Computer Vision](#computer_vision)
   - [Natural Language Processing](nlp.md)
   - [Tabular Data](tabular_data.md)
 * [Learning Sagemaker](learning_sagemaker.md) - Trainings, certifications, books and community
