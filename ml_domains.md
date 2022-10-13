@@ -15,3 +15,4 @@
   - [RStudio on SageMaker](https://docs.aws.amazon.com/sagemaker/latest/dg/rstudio.html)
   - [external] [Overview of possible ways of running R workloads on SageMaker](https://towardsdatascience.com/3-1-ways-of-running-r-on-amazon-sagemaker-13034a8f3686)
   - [blog] [Create Amazon SageMaker model building pipelines and deploy R models using RStudio on Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/create-amazon-sagemaker-model-building-pipelines-and-deploy-r-models-using-rstudio-on-amazon-sagemaker/)
+  - [External] [Create reusable containers for R](https://towardsdatascience.com/how-to-create-reusable-r-containers-for-sagemaker-jobs-a3d481daf5cd)
