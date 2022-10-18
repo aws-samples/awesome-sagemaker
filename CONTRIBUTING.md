@@ -49,15 +49,33 @@ GitHub provides additional document on [forking a repository](https://help.githu
     * Docs
     * Video
     * Workshop
-3. Content that doesn't belong to official AWS resources must be marked as *External*
+3. New entry has to respect the following format:
 
-Example 1:
+```
+[<CONTENT_TYPE>] [<CONTENT_TITLE>](<CONTENT_URL>)
+```
 
-> [Blog] [<CONTENT_TITLE>](<CONTENT_URL>)
+#### Example:
 
-Example 2:
+```
+[Blog] [AWS Blog](https://aws.amazon.com/blogs/aws/)
+```
 
-> [Code] [External] [<CONTENT_TITLE>](<CONTENT_URL>)
+4. Content that doesn't belong to official AWS resources must be marked as *External*
+
+```
+[<CONTENT_TYPE>] [External] [<CONTENT_TITLE>](<CONTENT_URL>)
+```
+
+#### Example:
+
+```
+[Blog] [External] [My Blog](https://mockurlforblog)
+```
+
+
+
+
 
 ## Finding contributions to work on
 Looking at the existing issues is a great way to find something to contribute on. As our projects, by default, use the default GitHub issue labels (enhancement/bug/duplicate/help wanted/invalid/question/wontfix), looking at any 'help wanted' issues is a great place to start.
