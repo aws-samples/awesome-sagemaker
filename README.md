@@ -16,18 +16,18 @@
 
 The curated list consists of the following sections.  
 
-* [Getting Started](Getting_Started.md)  - Start here if you are setting up Sagemaker (including studio).    
-  - [introduction](./Getting_Started.md#introduction)
-  - [Developer Experience](./Getting_Started.md#developer-experience)
-  - [Architecture Best Practices](./Getting_Started.md#architecture-best-practices) 
-  - [ML Platform Setup](./Getting_Started.md#ml-platform-setup)
+* [Getting Started](getting_started.md)  - Start here if you are setting up Sagemaker (including studio).    
+  - [Introduction](./getting_started.md#introduction)
+  - [Developer Experience](./getting_started.md#developer-experience)
+  - [Architecture Best Practices](./getting_started.md#architecture-best-practices) 
+  - [ML Platform Setup](./getting_started.md#ml-platform-setup)
 * [Building ML Models](building_ml_models.md) - Contains resources used for data preparation, running notebooks and training models
   - [SDKs and Infrastructure-as-code](./building_ml_models.md#sdks--infrastructure-as-code)
   - [Data Processing](./building_ml_models.md#data-processing)     
   - [Data Labeling](./building_ml_models.md#data-labeling)
   - [Training](./building_ml_models.md#training)
 * [Deploying ML Models](deploying_ml_models.md) - Different ways to deploy models and their best practices  
-  - [Inferece](./deploying_ml_models.md#inference)
+  - [Inference](./deploying_ml_models.md#inference)
   - [Edge Deployments](./deploying_ml_models.md#edge-deployments)
   - [Debugging](./deploying_ml_models.md#debugging)  
 * [MLOps](mlops.md) - Machine Learning Operations.   
@@ -50,6 +50,13 @@ The curated list consists of the following sections.
   - [Natural Language Processing](./ml_domains.md#natural-language-processing)
   - [R](./ml_domains.md#r)
 * [Learning Sagemaker](learning_sagemaker.md) - Trainings, certifications, books and community
+  - [Certification](learning_sagemaker.md#certification)
+  - [MOOCs](learning_sagemaker.md#moocs)
+  - [Digital & Classroom](learning_sagemaker.md#digital--classroom)
+  - [Tutorials](learning_sagemaker.md#tutorials)
+  - [Community](learning_sagemaker.md#community)
+  - [Books](learning_sagemaker.md#books)
+  - [News](learning_sagemaker.md#news)
 
 ## :wrench: Maintainers 
 - [Bruno Pistone](https://github.com/brunopistone)
