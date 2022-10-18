@@ -2,6 +2,8 @@
 
 Please include a summary of the changes and the related issue. Please also include relevant motivation and context. List any dependencies that are required for this change.
 
+Please make sure your entry is respecting the format `[<CONTENT_TYPE>] [<CONTENT_NAME>](<CONTENT_URL>)`. For more information, please read the [contribution guidelines](./../CONTRIBUTING.md)
+
 ## Focus Area
 
 Please select the area where you want to include the content.
@@ -12,7 +14,7 @@ Please select the area where you want to include the content.
 - [ ] MLOps
 - [ ] Low Code/ No Code ML
 - [ ] ML Governance
-- [ ] Responsible AI - Explainability & Bias Detection
+- [ ] Responsible AI
 - [ ] Audio
 - [ ] Computer Vision
 - [ ] NLP
