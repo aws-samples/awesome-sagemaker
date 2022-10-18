@@ -44,7 +44,7 @@ The curated list consists of the following sections.
   - [Cost Tracking and Control](./ml_governance.md#cost-tracking--control)
 * [Responsible AI](responsible_ai.md)    
   - [Explainability & Bias Detection](./responsible_ai.md#explainability--bias-detection)
-* [ML Domains](ml_domains.md) - Deep dive on domains such as NLP, CV, Tabular, Audio and Reinforcement Learning.  
+* [ML Domains](ml_domains.md) - Deep dive on domains such as NLP, CV, Tabular, Audio and Reinforcement Learning
   - [Audio](./ml_domains.md#audio)
   - [Computer Vision](./ml_domains.md#computer-vision)
   - [Natural Language Processing](./ml_domains.md#natural-language-processing)

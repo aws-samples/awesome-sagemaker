@@ -2,7 +2,7 @@
 
 Please include a summary of the changes and the related issue. Please also include relevant motivation and context. List any dependencies that are required for this change.
 
-Please make sure your entry is respecting the format 
+Please make sure your entry is respecting the format:
 
 `[<CONTENT_TYPE>] [<CONTENT_NAME>](<CONTENT_URL>)`
 
