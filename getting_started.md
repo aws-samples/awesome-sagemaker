@@ -3,14 +3,14 @@
 ### Introduction
 - [Video] [Introduction to Amazon SageMaker](https://www.youtube.com/watch?v=Qv_Tr_BCFCQ)
 - [Docs] [Getting started with Amazon SageMaker Tutorials](https://aws.amazon.com/sagemaker/getting-started/)
-- [Docs][ SageMaker Example Notebooks](https://sagemaker-examples.readthedocs.io/en/latest/)
+- [Docs] [SageMaker Example Notebooks](https://sagemaker-examples.readthedocs.io/en/latest/)
 - [Workshop] [Amazon SageMaker 101 Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/0c6b8a23-b837-4e0f-b2e2-4a3ffd7d645b/en-US)
-- [Workshop ][SageMaker Immersion Day (hands-on labs)](https://catalog.us-east-1.prod.workshops.aws/workshops/63069e26-921c-4ce1-9cc7-dd882ff62575/en-US)
+- [Workshop] [SageMaker Immersion Day (hands-on labs)](https://catalog.us-east-1.prod.workshops.aws/workshops/63069e26-921c-4ce1-9cc7-dd882ff62575/en-US)
 
 ### Developer Experience
-- [External] [Building machine learning models in the cloud: A paradigm shift](https://towardsdatascience.com/building-machine-learning-models-in-the-cloud-a-paradigm-shift-ff7dbbc39312)
+- [Blog] [External] [Building machine learning models in the cloud: A paradigm shift](https://towardsdatascience.com/building-machine-learning-models-in-the-cloud-a-paradigm-shift-ff7dbbc39312)
 - [Blog] [Host VS code-server on Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/host-code-server-on-amazon-sagemaker/)
-- [External] [Using RStudio on SageMaker](https://www.rstudio.com/sagemaker/)
+- [Docs] [External] [Using RStudio on SageMaker](https://www.rstudio.com/sagemaker/)
 
 ### Architecture Best Practices
 - [Docs] [Architecture Best Practices for Machine Learning](https://aws.amazon.com/architecture/machine-learning/)
