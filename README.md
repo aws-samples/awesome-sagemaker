@@ -14,7 +14,7 @@
 
 > A curated list of awesome references for Amazon SageMaker.
 
-The curated list consists of the following sections.  
+:ledger: The curated list consists of the following sections.  
 
 * [**Getting Started**](./getting_started.md)  - Start here if you are setting up Sagemaker (including studio)
   - [Introduction](./getting_started.md#introduction)
