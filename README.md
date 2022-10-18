@@ -16,7 +16,7 @@
 
 The curated list consists of the following sections.  
 
-* [Getting Started](getting_started.md)  - Start here if you are setting up Sagemaker (including studio).    
+* [Getting Started](getting_started.md)  - Start here if you are setting up Sagemaker (including studio)
   - [Introduction](./getting_started.md#introduction)
   - [Developer Experience](./getting_started.md#developer-experience)
   - [Architecture Best Practices](./getting_started.md#architecture-best-practices) 
@@ -28,12 +28,12 @@ The curated list consists of the following sections.
   - [Data Labeling](./building_ml_models.md#data-labeling)
   - [Training](./building_ml_models.md#training)
 
-* [Deploying ML Models](deploying_ml_models.md) - Different ways to deploy models and their best practices  
+* [Deploying ML Models](deploying_ml_models.md) - Different ways to deploy models and their best practices
   - [Inference](./deploying_ml_models.md#inference)
   - [Edge Deployments](./deploying_ml_models.md#edge-deployments)
   - [Debugging](./deploying_ml_models.md#debugging)  
 
-* [MLOps](mlops.md) - Machine Learning Operations.   
+* [MLOps](mlops.md) - Machine Learning Operations
   - [MLOps Foundations](./mlops.md#mlops-foundations)
   - [SageMaker Pipelines](./mlops.md#sagemaker-pipelines)
   - [Third-Party](./mlops.md#using-third-party) 
@@ -41,10 +41,10 @@ The curated list consists of the following sections.
   - [Data Versioning and Feature store](./mlops.md#data-versioning--feature-store)
   - [Model Monitoring](./mlops.md#model-monitoring)
 
-* [Low Code/ No Code ML](low_code_no_code_ml.md) - Low code approach to date preparation and model building    
+* [Low Code/ No Code ML](low_code_no_code_ml.md) - Low code approach to date preparation and model building
   - [AutoML](./low_code_no_code_ml.md#automl)
 
-* [ML Governance](ml_governance.md) - Data governance, model governance, security, cost   
+* [ML Governance](ml_governance.md) - Data governance, model governance, security, cost
   - [Security](./ml_governance.md#security)
   - [Cost Tracking and Control](./ml_governance.md#cost-tracking--control)
 
