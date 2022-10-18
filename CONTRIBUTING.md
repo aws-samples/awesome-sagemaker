@@ -52,9 +52,11 @@ GitHub provides additional document on [forking a repository](https://help.githu
 3. Content that doesn't belong to official AWS resources must be marked as *External*
 
 Example 1:
+
 `[Blog] [<CONTENT_TITLE>](<CONTENT_URL>)`
 
 Example 2:
+
 `[Code] [External] [<CONTENT_TITLE>](<CONTENT_URL>)`
 
 ## Finding contributions to work on
