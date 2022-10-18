@@ -68,10 +68,10 @@ The curated list consists of the following sections.
 
 ## :wrench: Maintainers 
 - [Bruno Pistone](https://github.com/brunopistone)
-- [Othmane Hamzaoui](https://github.com/Othmane796)
 - [Sofian Hamiti](https://github.com/SofianHamiti)
-- [Georgios Schinas](https://github.com/Georschi)
 - [Mithil Shah](https://github.com/MithilShah)
+- [Othmane Hamzaoui](https://github.com/Othmane796)
+- [Georgios Schinas](https://github.com/Georschi)
 
 ## :handshake: Contributing
 
