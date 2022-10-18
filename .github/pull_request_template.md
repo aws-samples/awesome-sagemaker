@@ -4,7 +4,7 @@ Please include a summary of the changes and the related issue. Please also inclu
 
 Please make sure your entry is respecting the format:
 
-`[<CONTENT_TYPE>] [<CONTENT_NAME>](<CONTENT_URL>)`
+> [<CONTENT_TYPE>] [<CONTENT_NAME>](<CONTENT_URL>)
 
 For more information, please read the [contribution guidelines](./../CONTRIBUTING.md)
 

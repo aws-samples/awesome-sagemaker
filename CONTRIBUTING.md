@@ -53,11 +53,11 @@ GitHub provides additional document on [forking a repository](https://help.githu
 
 Example 1:
 
-`[Blog] [<CONTENT_TITLE>](<CONTENT_URL>)`
+> [Blog] [<CONTENT_TITLE>](<CONTENT_URL>)
 
 Example 2:
 
-`[Code] [External] [<CONTENT_TITLE>](<CONTENT_URL>)`
+> [Code] [External] [<CONTENT_TITLE>](<CONTENT_URL>)
 
 ## Finding contributions to work on
 Looking at the existing issues is a great way to find something to contribute on. As our projects, by default, use the default GitHub issue labels (enhancement/bug/duplicate/help wanted/invalid/question/wontfix), looking at any 'help wanted' issues is a great place to start.
