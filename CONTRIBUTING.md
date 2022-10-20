@@ -40,6 +40,43 @@ GitHub provides additional document on [forking a repository](https://help.githu
 [creating a pull request](https://help.github.com/articles/creating-a-pull-request/).
 
 
+### Add new content in the Awesome SageMaker list
+
+1. Make sure that the content is not already included in other sections of the list
+2. New content must be marked with the appropriate tag
+    * Blog
+    * Code
+    * Docs
+    * Video
+    * Workshop
+3. New entry has to respect the following format:
+
+```
+[<CONTENT_TYPE>] [<CONTENT_TITLE>](<CONTENT_URL>)
+```
+
+#### Example:
+
+```
+[Blog] [AWS Blog](https://aws.amazon.com/blogs/aws/)
+```
+
+4. Content that doesn't belong to official AWS resources must be marked as *External*
+
+```
+[<CONTENT_TYPE>] [External] [<CONTENT_TITLE>](<CONTENT_URL>)
+```
+
+#### Example:
+
+```
+[Blog] [External] [My Blog](https://mockurlforblog)
+```
+
+
+
+
+
 ## Finding contributions to work on
 Looking at the existing issues is a great way to find something to contribute on. As our projects, by default, use the default GitHub issue labels (enhancement/bug/duplicate/help wanted/invalid/question/wontfix), looking at any 'help wanted' issues is a great place to start.
 

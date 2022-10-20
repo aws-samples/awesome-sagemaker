@@ -1,19 +1,23 @@
-- ### Inference
-  - [video] [Amazon SageMaker Inference explained: Which style is right for you?](https://www.youtube.com/watch?v=bRUNpuRGeZc)
-  - [video] [Introduction to Amazon SageMaker Serverless Inference](https://www.youtube.com/watch?v=xIp2305saII)
-  - [external] [Running Triton Inference Server with Amazon SageMaker](https://www.coursera.org/lecture/machine-learning-aws-nvidia/running-triton-inference-server-with-amazon-sagemaker-HwIki)
-  - [external] [An Amazon SageMaker Inference comparison with Hugging Face Transformers](https://www.philschmid.de/sagemaker-inference-comparison)
-  - ### Hardware Acceleration
-    - [external] [Choosing the right GPU for deep learning on AWS](https://towardsdatascience.com/choosing-the-right-gpu-for-deep-learning-on-aws-d69c157d8c86)
-    - [external] [Speed up BERT inference with Hugging Face Transformers and AWS Inferentia](https://www.philschmid.de/huggingface-bert-aws-inferentia)
+## Deploying ML Models
 
-- ### Edge Deployments
-  - [Video] [Industrial defect detection with computer vision using Amazon SageMaker ](https://www.youtube.com/watch?v=v6OHL3LTjkA)
-  - [Blog] [Using Amazon SageMaker Edge Manager and AWS IoT Greengrass V2](https://aws.amazon.com/blogs/machine-learning/build-machine-learning-at-the-edge-applications-using-amazon-sagemaker-edge-manager-and-aws-iot-greengrass-v2/)
-  - [code] [ML@Edge with SageMaker Neo & Edge Manager - Getting Started](https://github.com/aws-samples/ml-edge-getting-started)
-  - [ciode] [ML@Edge with SageMaker Edge Manager - Workshop](https://github.com/aws-samples/amazon-sagemaker-edge-manager-workshop)
-  - [Blog] [MLOps at the edge with Amazon SageMaker Edge Manager and AWS IoT Greengrass](https://aws.amazon.com/blogs/machine-learning/mlops-at-the-edge-with-amazon-sagemaker-edge-manager-and-aws-iot-greengrass/)
-- ### Debugging
-  - [Use TensorBoard in Amazon SageMaker Studio](https://docs.aws.amazon.com/sagemaker/latest/dg/studio-tensorboard.html)
-  - [Visualize Amazon SageMaker Training Jobs with TensorBoard](https://sagemaker-examples.readthedocs.io/en/latest/sagemaker-python-sdk/tensorboard_keras/tensorboard_keras.html)
-  - [Video] [Deep Dive on Amazon SageMaker Debugger & Amazon SageMaker Model Monitor](https://www.youtube.com/watch?v=0zqoeZxakOI)
+### Inference
+- [Video] [Amazon SageMaker Inference explained: Which style is right for you?](https://www.youtube.com/watch?v=bRUNpuRGeZc)
+- [Video] [Introduction to Amazon SageMaker Serverless Inference](https://www.youtube.com/watch?v=xIp2305saII)
+- [Video] [External] [Running Triton Inference Server with Amazon SageMaker](https://www.coursera.org/lecture/machine-learning-aws-nvidia/running-triton-inference-server-with-amazon-sagemaker-HwIki)
+- [blog] [External] [An Amazon SageMaker Inference comparison with Hugging Face Transformers](https://www.philschmid.de/sagemaker-inference-comparison)
+
+#### Hardware Acceleration
+- [Blog] [External] [Choosing the right GPU for deep learning on AWS](https://towardsdatascience.com/choosing-the-right-gpu-for-deep-learning-on-aws-d69c157d8c86)
+- [Blog] [Speed up BERT inference with Hugging Face Transformers and AWS Inferentia](https://www.philschmid.de/huggingface-bert-aws-inferentia)
+
+### Edge Deployments
+- [Video] [Industrial defect detection with computer vision using Amazon SageMaker ](https://www.youtube.com/watch?v=v6OHL3LTjkA)
+- [Blog] [Using Amazon SageMaker Edge Manager and AWS IoT Greengrass V2](https://aws.amazon.com/blogs/machine-learning/build-machine-learning-at-the-edge-applications-using-amazon-sagemaker-edge-manager-and-aws-iot-greengrass-v2/)
+- [Code] [ML@Edge with SageMaker Neo & Edge Manager - Getting Started](https://github.com/aws-samples/ml-edge-getting-started)
+- [Code] [ML@Edge with SageMaker Edge Manager - Workshop](https://github.com/aws-samples/amazon-sagemaker-edge-manager-workshop)
+- [Blog] [MLOps at the edge with Amazon SageMaker Edge Manager and AWS IoT Greengrass](https://aws.amazon.com/blogs/machine-learning/mlops-at-the-edge-with-amazon-sagemaker-edge-manager-and-aws-iot-greengrass/)
+
+### Debugging
+- [Docs] [Use TensorBoard in Amazon SageMaker Studio](https://docs.aws.amazon.com/sagemaker/latest/dg/studio-tensorboard.html)
+- [Docs] [Visualize Amazon SageMaker Training Jobs with TensorBoard](https://sagemaker-examples.readthedocs.io/en/latest/sagemaker-python-sdk/tensorboard_keras/tensorboard_keras.html)
+- [Video] [Deep Dive on Amazon SageMaker Debugger & Amazon SageMaker Model Monitor](https://www.youtube.com/watch?v=0zqoeZxakOI)
