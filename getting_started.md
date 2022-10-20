@@ -11,6 +11,7 @@
 - [Blog] [External] [Building machine learning models in the cloud: A paradigm shift](https://towardsdatascience.com/building-machine-learning-models-in-the-cloud-a-paradigm-shift-ff7dbbc39312)
 - [Blog] [Host VS code-server on Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/host-code-server-on-amazon-sagemaker/)
 - [Docs] [External] [Using RStudio on SageMaker](https://www.rstudio.com/sagemaker/)
+- [Code] [SageMaker SSH Helper](https://github.com/aws-samples/sagemaker-ssh-helper) - a library to connect into SageMaker with AWS Systems Manager / SSH and to integrate with local PyCharm / VSCode
 
 ### Architecture Best Practices
 - [Docs] [Architecture Best Practices for Machine Learning](https://aws.amazon.com/architecture/machine-learning/)
