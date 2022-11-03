@@ -4,7 +4,7 @@
 - [Video] [Amazon SageMaker Inference explained: Which style is right for you?](https://www.youtube.com/watch?v=bRUNpuRGeZc)
 - [Video] [Introduction to Amazon SageMaker Serverless Inference](https://www.youtube.com/watch?v=xIp2305saII)
 - [Video] [External] [Running Triton Inference Server with Amazon SageMaker](https://www.coursera.org/lecture/machine-learning-aws-nvidia/running-triton-inference-server-with-amazon-sagemaker-HwIki)
-- [blog] [External] [An Amazon SageMaker Inference comparison with Hugging Face Transformers](https://www.philschmid.de/sagemaker-inference-comparison)
+- [Blog] [External] [An Amazon SageMaker Inference comparison with Hugging Face Transformers](https://www.philschmid.de/sagemaker-inference-comparison)
 
 #### Hardware Acceleration
 - [Blog] [External] [Choosing the right GPU for deep learning on AWS](https://towardsdatascience.com/choosing-the-right-gpu-for-deep-learning-on-aws-d69c157d8c86)
