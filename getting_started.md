@@ -25,3 +25,4 @@
 - [Video] [Access SageMaker Studio via an external identity provider](https://www.youtube.com/watch?v=9CnFrSqvXYM)
 - [Video] [Onboard Quickly to Amazon SageMaker Studio](https://www.youtube.com/watch?v=wiDHCWVrjCU)
 - [Blog] [Secure multi-account model deployment with Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/part-1-secure-multi-account-model-deployment-with-amazon-sagemaker/)
+- [Blog] [Provision and manage ML environments with Amazon SageMaker Canvas using AWS CDK and AWS Service Catalog](https://aws.amazon.com/blogs/machine-learning/provision-and-manage-ml-environments-with-amazon-sagemaker-canvas-using-aws-cdk-and-aws-service-catalog/)
