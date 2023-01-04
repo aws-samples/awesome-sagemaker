@@ -10,6 +10,7 @@
 ### Developer Experience
 - [Blog] [External] [Building machine learning models in the cloud: A paradigm shift](https://towardsdatascience.com/building-machine-learning-models-in-the-cloud-a-paradigm-shift-ff7dbbc39312)
 - [Blog] [Host VS code-server on Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/host-code-server-on-amazon-sagemaker/)
+- [Blog] [Boost Your ML Team’s Productivity with Container-Based Development in the Cloud](https://medium.com/towards-data-science/boost-your-ml-teams-productivity-with-container-based-development-in-the-cloud-56aa35552776)
 - [Docs] [External] [Using RStudio on SageMaker](https://www.rstudio.com/sagemaker/)
 - [Code] [SageMaker SSH Helper](https://github.com/aws-samples/sagemaker-ssh-helper) - a library to connect into SageMaker with AWS Systems Manager / SSH and to integrate with local PyCharm / VSCode
 
