@@ -1,8 +1,11 @@
 ## ML Governance
 
+### Model Management
+- [Blog] [Improve governance of your machine learning models with Amazon SageMaker - Model Cards & Dashboard](https://aws.amazon.com/blogs/machine-learning/improve-governance-of-your-machine-learning-models-with-amazon-sagemaker/)
+
 ### Security
 - [Docs] [Security in Amazon SageMaker](https://docs.aws.amazon.com/sagemaker/latest/dg/security.html)
-- [Blog] [Dive deep into Amazon SageMaker Studio Notebooks architecture](https://aws.amazon.com/blogs/machine-learning/dive-deep-into-amazon-sagemaker-studio-notebook-architecture/)
+- [Docs] [Amazon SageMaker Role Manager -  least-privilege access needs required for personas for ML personas](https://docs.aws.amazon.com/sagemaker/latest/dg/role-manager.html)
 
 ### Cost Tracking & Control
 - [Docs] [SageMaker Pricing](https://aws.amazon.com/sagemaker/pricing/)

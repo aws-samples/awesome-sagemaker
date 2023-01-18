@@ -4,7 +4,7 @@ Please include a summary of the changes and the related issue. Please also inclu
 
 Please make sure your entry is respecting the format defined in the [contribution guidelines](./../CONTRIBUTING.md).
 
-## Focus Area
+## Topic Area
 
 Please select the area where you want to include the content.
 
@@ -28,10 +28,3 @@ Please select the area where you want to include the content.
 - [ ] Docs
 - [ ] Video
 - [ ] Workshop
-
-## External Content
-
-Content included in the list should be marked as external if it is not officially provided by Amazon Web Services
-
-- [ ] Yes
-- [ ] No
