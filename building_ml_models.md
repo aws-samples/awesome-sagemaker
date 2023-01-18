@@ -25,16 +25,18 @@
 - [Blog] [External] [Labeling data with Label Studio on SageMaker](https://medium.com/geekculture/labeling-data-with-label-studio-on-sagemaker-e4b2d1b562f7)
 
 ### Training
+- [Docs] [Supported pre-built containers/frameworks (script mode)](https://sagemaker.readthedocs.io/en/stable/frameworks/index.html)
+- [Blog] [Operationalize your Amazon SageMaker Studio notebooks as scheduled notebook jobs](https://aws.amazon.com/blogs/machine-learning/operationalize-your-amazon-sagemaker-studio-notebooks-as-scheduled-notebook-jobs/)
+- [Code] [Scheduled jobs on SageMaker Studio Notebooks](https://github.com/aws/amazon-sagemaker-examples/blob/main/sagemaker-notebook-jobs/studio-scheduling/scheduled-example.ipynb)
 - [Code] [Training - end-to-end example with Scikit-Learn](https://github.com/aws/amazon-sagemaker-examples/blob/main/sagemaker-python-sdk/scikit_learn_randomforest/Sklearn_on_SageMaker_end2end.ipynb)
-- [Video] [Training - end-to-end example with Script Mode](https://www.youtube.com/watch?v=x94hpOmKtXM)
 - [Code] [Using local mode](https://github.com/aws-samples/amazon-sagemaker-local-mode)
 - [Code] [SageMaker Environment Variables](https://github.com/aws/sagemaker-training-toolkit/blob/master/ENVIRONMENT_VARIABLES.md)
-- [Docs] [Supported pre-built containers/frameworks (script mode)](https://sagemaker.readthedocs.io/en/stable/frameworks/index.html)
 - [Code] [Deep Learning Containers](https://github.com/aws/deep-learning-containers/blob/master/available_images.md)
-- [Video] [Using Script Mode with Amazon SageMaker](https://www.youtube.com/watch?v=x94hpOmKtXM)
 - [Code] [Using custom training containers](https://github.com/aws/amazon-sagemaker-examples/tree/main/advanced_functionality/custom-training-containers)
 - [Code] [Training toolkit](https://github.com/aws/sagemaker-training-toolkit) and [Inference toolkit](https://github.com/aws/sagemaker-inference-toolkit)
 - [Code] [How Amazon SageMaker Provides Training Information](https://docs.aws.amazon.com/sagemaker/latest/dg/your-algorithms-training-algo-running-container.html)
+- [Video] [Using Script Mode with Amazon SageMaker](https://www.youtube.com/watch?v=x94hpOmKtXM)
+- [Video] [Training - end-to-end example with Script Mode](https://www.youtube.com/watch?v=x94hpOmKtXM)
 
 #### Distributed Training 
 - [Blog] [Choose the best data source for your Amazon SageMaker training job](https://aws.amazon.com/blogs/machine-learning/choose-the-best-data-source-for-your-amazon-sagemaker-training-job/)

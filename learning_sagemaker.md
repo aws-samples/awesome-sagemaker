@@ -16,14 +16,15 @@
 - [Docs] [AWS hands-on tutorials](https://aws.amazon.com/getting-started/hands-on/?getting-started-all.sort-by=item.additionalFields.sortOrder&getting-started-all.sort-order=asc&awsf.getting-started-category=category%23machine-learning&awsf.getting-started-level=*all&awsf.getting-started-content-type=*all)
 
 ### Community
-- [Video] [DataScienceOnAWS](https://www.youtube.com/channel/UCvlZKtekcKkBUuz8f9dhobw/featured)
-- [Code] [Data Science on AWS GitHub](https://github.com/data-science-on-aws/data-science-on-aws)
-- [Video] [Amazon SageMaker Fridays](https://pages.awscloud.com/SageMakerFridays)
-- [Blog] [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/category/artificial-intelligence/sagemaker/)
-- [Video] [AWS ML School](https://mlschool.splashthat.com/?sc_channel=sm&sc_campaign=Machine_Learning&sc_publisher=LINKEDIN&sc_geo=GLOBAL&sc_outcome=awareness&trk=machine_learning)
-- [Video] [AWS events](https://aws.amazon.com/events/)
 - [Docs] [AWS re:Post](https://repost.aws/)
 - [Docs] [Stack Overflow](https://stackoverflow.com/questions/tagged/amazon-sagemaker)
+- [Blog] [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/category/artificial-intelligence/sagemaker/)
+- [Code] [Data Science on AWS GitHub](https://github.com/data-science-on-aws/data-science-on-aws)
+- [Video] [DataScienceOnAWS](https://www.youtube.com/channel/UCvlZKtekcKkBUuz8f9dhobw/featured)
+- [Video] [Amazon SageMaker Fridays](https://pages.awscloud.com/SageMakerFridays)
+- [Video] [AWS ML School](https://mlschool.splashthat.com/?sc_channel=sm&sc_campaign=Machine_Learning&sc_publisher=LINKEDIN&sc_geo=GLOBAL&sc_outcome=awareness&trk=machine_learning)
+- [Video] [AWS events](https://aws.amazon.com/events/)
+
 
 ### Books
 - [Docs] [Learn Amazon SageMaker - Second Edition](https://www.packtpub.com/product/learn-amazon-sagemaker-second-edition/9781801817950)

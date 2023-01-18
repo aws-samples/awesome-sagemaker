@@ -66,13 +66,6 @@
   - [Books](learning_sagemaker.md#books)
   - [News](learning_sagemaker.md#news)
 
-## :wrench: Maintainers 
-- [Bruno Pistone](https://github.com/brunopistone)
-- [Sofian Hamiti](https://github.com/SofianHamiti)
-- [Mithil Shah](https://github.com/MithilShah)
-- [Othmane Hamzaoui](https://github.com/Othmane796)
-- [Georgios Schinas](https://github.com/Georschi)
-
 ## :handshake: Contributing
 
 If you'd like to open an issue, for having a defunct link removed or corrected, or you want to propose interesting content and share it into the list through a pull request, please read our [contributing guidelines](./CONTRIBUTING.md).
