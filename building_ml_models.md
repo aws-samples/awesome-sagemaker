@@ -27,6 +27,7 @@
 ### Training
 - [Docs] [Supported pre-built containers/frameworks (script mode)](https://sagemaker.readthedocs.io/en/stable/frameworks/index.html)
 - [Blog] [Operationalize your Amazon SageMaker Studio notebooks as scheduled notebook jobs](https://aws.amazon.com/blogs/machine-learning/operationalize-your-amazon-sagemaker-studio-notebooks-as-scheduled-notebook-jobs/)
+- [Blog] [Why Bring Your Own Container to Amazon SageMaker and How to do it right !](https://medium.com/@pandey.vikesh/why-bring-your-own-container-to-amazon-sagemaker-and-how-to-do-it-right-bc158fe41ed1)
 - [Code] [Scheduled jobs on SageMaker Studio Notebooks](https://github.com/aws/amazon-sagemaker-examples/blob/main/sagemaker-notebook-jobs/studio-scheduling/scheduled-example.ipynb)
 - [Code] [Training - end-to-end example with Scikit-Learn](https://github.com/aws/amazon-sagemaker-examples/blob/main/sagemaker-python-sdk/scikit_learn_randomforest/Sklearn_on_SageMaker_end2end.ipynb)
 - [Code] [Using local mode](https://github.com/aws-samples/amazon-sagemaker-local-mode)
@@ -42,4 +43,5 @@
 - [Blog] [Choose the best data source for your Amazon SageMaker training job](https://aws.amazon.com/blogs/machine-learning/choose-the-best-data-source-for-your-amazon-sagemaker-training-job/)
 - [Blog] [Scalable Medical Computer Vision Model Training - Part 1](https://aws.amazon.com/blogs/industries/scalable-medical-computer-vision-model-training-with-amazon-sagemaker-part-1/)
 - [Blog] [Scalable Medical Computer Vision Model Training - Part 2](https://aws.amazon.com/blogs/industries/scalable-medical-computer-vision-model-training-with-amazon-sagemaker-part-2)
+- [Code] [Use SageMaker with Trainium and Inferentia](https://github.com/aws-samples/sagemaker-trainium-inferentia)
 
