@@ -6,14 +6,15 @@
 - [Blog] [External] [Semantic Segmantion with Hugging Face's Transformers & Amazon SageMaker](https://www.philschmid.de/image-segmentation-sagemaker)
 
 ### Natural Language Processing
-- [External] [Hugging Face on Amazon SageMaker](https://huggingface.co/docs/sagemaker/main)
+- [Docs] [External] [Hugging Face on Amazon SageMaker](https://huggingface.co/docs/sagemaker/main)
+- [Blog] [External] [Unlock the Latest Transformer Models with Amazon SageMaker](https://towardsdatascience.com/unlock-the-latest-transformer-models-with-amazon-sagemaker-7fe65130d993)
 - [Video] [Hugging Face on Amazon SageMaker Tutorial - Part 1](https://www.youtube.com/watch?v=80ix-IyNnQI)
 - [Video] [Hugging Face on Amazon SageMaker Tutorial - Part 2](https://www.youtube.com/watch?v=BqQ14SZ5tos)
 - [Video] [Hugging Face on Amazon SageMaker Tutorial - Part 3](https://www.youtube.com/watch?v=oVIvXfeunv8)
 - [Code] [External] [Hugging Face Transformers Amazon SageMaker Examples](https://github.com/huggingface/notebooks/tree/main/sagemaker)
 
 ### Audio
-- [Blog] [External] [Automatic Speech Recogntion with Hugging Face's Transformers & Amazon SageMaker](https://www.philschmid.de/automatic-speech-recognition-sagemaker)
+- [Blog] [External] [Automatic Speech Recogntion with HuggingFace's Transformers & Amazon SageMaker](https://www.philschmid.de/automatic-speech-recognition-sagemaker)
 
 ### R
 - [Blog] [RStudio on SageMaker](https://docs.aws.amazon.com/sagemaker/latest/dg/rstudio.html)
