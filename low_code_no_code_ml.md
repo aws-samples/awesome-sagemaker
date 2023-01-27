@@ -7,3 +7,7 @@
 ## AutoML
 - [Video] [Using AutoML to create high-quality models with just a few clicks](https://www.youtube.com/watch?v=f9aCwmVWvC8)
 - [Video] [Using AutoML for Common Financial Services Use Cases](https://www.youtube.com/watch?v=r2-VmuUh7jM)
+
+## Data Wrangler
+- [Video] [External] [Using SageMaker Data Wrangler to process a stroke prediction dataset](https://www.youtube.com/watch?v=AEYSNNiIq-k)
+- [Video] [External] [Using advanced import and export options with SageMaker Data Wrangler](https://www.youtube.com/watch?v=O5W-tvbQ664)

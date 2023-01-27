@@ -4,6 +4,8 @@
 - [Blog] [Using the TensorFlow 2 Object Detection API with Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/training-and-deploying-models-using-tensorflow-2-with-the-object-detection-api-on-amazon-sagemaker/)
 - [Blog] [Object detection with Detectron2 on Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/object-detection-with-detectron2-on-amazon-sagemaker/)
 - [Blog] [External] [Semantic Segmantion with Hugging Face's Transformers & Amazon SageMaker](https://www.philschmid.de/image-segmentation-sagemaker)
+- [Blog] [Build a medical image analysis pipeline on Amazon SageMaker using the MONAI framework](https://aws.amazon.com/blogs/industries/build-a-medical-image-analysis-pipeline-on-amazon-sagemaker-using-the-monai-framework/)
+- [Blog] [Scalable Medical Computer Vision Model Training with Amazon SageMaker](https://aws.amazon.com/blogs/industries/scalable-medical-computer-vision-model-training-with-amazon-sagemaker-part-1/)
 
 ### Natural Language Processing
 - [Docs] [External] [Hugging Face on Amazon SageMaker](https://huggingface.co/docs/sagemaker/main)
