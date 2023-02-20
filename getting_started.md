@@ -16,10 +16,10 @@
 
 ### Architecture Best Practices
 - [Docs] [Architecture Best Practices for Machine Learning](https://aws.amazon.com/architecture/machine-learning/)
+- [Docs] [SageMaker Studio Administration Best Practices](https://docs.aws.amazon.com/whitepapers/latest/sagemaker-studio-admin-best-practices/sagemaker-studio-admin-best-practices.html)
 - [Blog] [AWS Well-Architected Machine Learning Lens](https://aws.amazon.com/blogs/architecture/introducing-the-new-aws-well-architected-machine-learning-lens/)
 
 ### ML Platform Setup
-- [Docs] [SageMaker Studio Administration Best Practices](https://docs.aws.amazon.com/whitepapers/latest/sagemaker-studio-admin-best-practices/sagemaker-studio-admin-best-practices.html)
 - [Blog] [Dive deep into Amazon SageMaker Studio Notebooks architecture](https://aws.amazon.com/blogs/machine-learning/dive-deep-into-amazon-sagemaker-studio-notebook-architecture/)
 - [Blog] [Separate lines of business or teams with multiple Amazon SageMaker domains](https://aws.amazon.com/blogs/machine-learning/separate-lines-of-business-or-teams-with-multiple-amazon-sagemaker-domains/)
 - [Blog] [Setting up secure, well-governed machine learning environments on AWS](https://aws.amazon.com/blogs/mt/setting-up-machine-learning-environments-aws/)
@@ -27,7 +27,6 @@
 - [Blog] [External] [Enabling self-service provisioning of Amazon SageMaker Studio resources](https://towardsdatascience.com/enabling-self-service-provisioning-of-amazon-sagemaker-studio-resources-7ac017925016)
 - [Blog] [External] [Industrializing an ML platform with Amazon SageMaker Studio](https://towardsdatascience.com/industrializing-an-ml-platform-with-amazon-sagemaker-studio-91b597802afe)
 - [Blog] [Team and user management with Amazon SageMaker and AWS SSO](https://aws.amazon.com/blogs/machine-learning/team-and-user-management-with-amazon-sagemaker-and-aws-sso/)
-- [Blog] [External] [Scaling Enterprise ML Platforms with Modern Cloud Operations](https://towardsdatascience.com/scaling-enterprise-mlops-delivery-with-modern-cloud-operations-6888d7218be5)
 - [Blog] [Secure AWS CodeArtifact access for isolated Amazon SageMaker notebook instances](https://aws.amazon.com/blogs/machine-learning/secure-aws-codeartifact-access-for-isolated-amazon-sagemaker-notebook-instances/)
 - [Blog] [Private package installation in Amazon SageMaker running in internet-free mode](https://aws.amazon.com/blogs/machine-learning/private-package-installation-in-amazon-sagemaker-running-in-internet-free-mode/)
 - [Video] [Access SageMaker Studio via an external identity provider](https://www.youtube.com/watch?v=9CnFrSqvXYM)
