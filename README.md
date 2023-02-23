@@ -30,6 +30,7 @@
 
 * [**Deploying ML Models**](deploying_ml_models.md) - Different ways to deploy models and their best practices
   - [Inference](./deploying_ml_models.md#inference)
+  - [Hardware Acceleration](./deploying_ml_models.md#hardware-acceleration)
   - [Edge Deployments](./deploying_ml_models.md#edge-deployments)
   - [Debugging](./deploying_ml_models.md#debugging)  
 
