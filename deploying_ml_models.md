@@ -3,11 +3,12 @@
 ### Inference
 - [Blog] [Secure multi-account model deployment with Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/part-1-secure-multi-account-model-deployment-with-amazon-sagemaker/)
 - [Blog] [External] [An Amazon SageMaker Inference comparison with Hugging Face Transformers](https://www.philschmid.de/sagemaker-inference-comparison)
+- [Code] [Optimize SageMaker Endpoint Auto scaling using Inference recommender](https://github.com/aws/amazon-sagemaker-examples/blob/main/sagemaker-inference-recommender/auto-scaling/optimize_endpoint_scaling.ipynb)
 - [Video] [Amazon SageMaker Inference explained: Which style is right for you?](https://www.youtube.com/watch?v=bRUNpuRGeZc)
 - [Video] [Introduction to Amazon SageMaker Serverless Inference](https://www.youtube.com/watch?v=xIp2305saII)
 - [Video] [External] [Running Triton Inference Server with Amazon SageMaker](https://www.coursera.org/lecture/machine-learning-aws-nvidia/running-triton-inference-server-with-amazon-sagemaker-HwIki)
 
-#### Hardware Acceleration
+### Hardware Acceleration
 - [Blog] [External] [Choosing the right GPU for deep learning on AWS](https://towardsdatascience.com/choosing-the-right-gpu-for-deep-learning-on-aws-d69c157d8c86)
 - [Blog] [Speed up BERT inference with Hugging Face Transformers and AWS Inferentia](https://www.philschmid.de/huggingface-bert-aws-inferentia)
 
