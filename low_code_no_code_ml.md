@@ -1,4 +1,4 @@
-## Low Code / No Code
+## Low Code - No Code
 
 - [Docs] [SageMaker JumpStart Available Model Table](https://sagemaker.readthedocs.io/en/v2.82.0/doc_utils/jumpstart.html)
 - [Blog] [Implementing MLOps practices with Amazon SageMaker JumpStart pre-trained models](https://aws.amazon.com/blogs/machine-learning/implementing-mlops-practices-with-amazon-sagemaker-jumpstart-pre-trained-models/)
