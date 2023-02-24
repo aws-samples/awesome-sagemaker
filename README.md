@@ -30,6 +30,7 @@
 
 * [**Deploying ML Models**](deploying_ml_models.md) - Different ways to deploy models and their best practices
   - [Inference](./deploying_ml_models.md#inference)
+  - [Hardware Acceleration](./deploying_ml_models.md#hardware-acceleration)
   - [Edge Deployments](./deploying_ml_models.md#edge-deployments)
   - [Debugging](./deploying_ml_models.md#debugging)  
 
@@ -42,7 +43,9 @@
   - [Model Monitoring](./mlops.md#model-monitoring)
 
 * [**Low Code / No Code ML**](low_code_no_code_ml.md) - Low code approach to date preparation and model building
+  - [Low Code - No Code](./low_code_no_code_ml.md#low-code-no-code)
   - [AutoML](./low_code_no_code_ml.md#automl)
+  - [Data Wrangler](./low_code_no_code_ml.md#data-wrangler)
 
 * [**ML Governance**](ml_governance.md) - Data governance, model governance, security, cost
   - [Security](./ml_governance.md#security)
