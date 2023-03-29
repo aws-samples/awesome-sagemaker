@@ -8,23 +8,20 @@ Please make sure your entry is respecting the format defined in the [contributio
 
 Please select the area where you want to include the content.
 
-- [ ] Getting Started
-- [ ] Building ML Models
-- [ ] Deploying ML Models
-- [ ] MLOps
-- [ ] Low Code/ No Code ML
-- [ ] ML Governance
-- [ ] Responsible AI
-- [ ] Audio
-- [ ] Computer Vision
-- [ ] NLP
-- [ ] R
-- [ ] Learning SageMaker
+- [] Getting Started
+- [] Building ML Models
+- [] Deploying ML Models
+- [] MLOps
+- [] Low Code/ No Code ML
+- [] ML Governance
+- [] Responsible AI
+- [] ML Domains
+- [] Learning SageMaker
 
 ## Content Type
 
-- [ ] Blog
-- [ ] Code
-- [ ] Docs
-- [ ] Video
-- [ ] Workshop
+- [] Blog
+- [] Code
+- [] Docs
+- [] Video
+- [] Workshop
