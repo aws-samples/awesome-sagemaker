@@ -4,6 +4,14 @@
 
 ## ML Domains
 
+### Large Language Model
+- [Blog] [Training large language models on Amazon SageMaker: Best practices](https://aws.amazon.com/blogs/machine-learning/training-large-language-models-on-amazon-sagemaker-best-practices/)
+- [Blog] [Run text generation with Bloom and GPT models on Amazon SageMaker JumpStart](https://aws.amazon.com/blogs/machine-learning/run-text-generation-with-gpt-and-bloom-models-on-amazon-sagemaker-jumpstart/)
+- [Blog] [External] [Create Your Own Large Language Model Playground in SageMaker Studio](https://towardsdatascience.com/create-your-own-large-language-model-playground-in-sagemaker-studio-1be5846c5089)
+
+### Generative AI
+- [Blog] [Architect personalized generative AI SaaS applications on Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/architect-personalized-generative-ai-saas-applications-on-amazon-sagemaker/)
+
 ### Computer Vision
 - [Blog] [Using the TensorFlow 2 Object Detection API with Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/training-and-deploying-models-using-tensorflow-2-with-the-object-detection-api-on-amazon-sagemaker/)
 - [Blog] [Object detection with Detectron2 on Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/object-detection-with-detectron2-on-amazon-sagemaker/)

@@ -55,10 +55,12 @@
   - [Explainability & Bias Detection](./responsible_ai.md#explainability--bias-detection)
 
 * [**ML Domains**](ml_domains.md) - Deep dive on domains such as NLP, CV, Tabular, Audio and Reinforcement Learning
-  - [Audio](./ml_domains.md#audio)
+  - [Large Language Model](./ml_domains.md#large-language-model)
+  - [Generative AI](./ml_domains.md#generative-ai)
   - [Computer Vision](./ml_domains.md#computer-vision)
   - [Natural Language Processing](./ml_domains.md#natural-language-processing)
   - [R](./ml_domains.md#r)
+  - [Audio](./ml_domains.md#audio)
 
 * [**Learning Sagemaker**](learning_sagemaker.md) - Trainings, certifications, books and community
   - [Certification](learning_sagemaker.md#certification)
