@@ -57,6 +57,7 @@
   - [Building Generative AI applications](./generative_ai.md#generative-ai-applications)
 
 * [**ML Domains**](ml_domains.md) - Deep dive on domains such as NLP, CV, Tabular, Audio and Reinforcement Learning
+  - [Responsible AI](./ml_domains.md#responsible-ai)
   - [Computer Vision](./ml_domains.md#computer-vision)
   - [Natural Language Processing](./ml_domains.md#natural-language-processing)
   - [R](./ml_domains.md#r)
