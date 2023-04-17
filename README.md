@@ -51,12 +51,12 @@
   - [Security](./ml_governance.md#security)
   - [Cost Tracking and Control](./ml_governance.md#cost-tracking--control)
 
-* [**Responsible AI**](responsible_ai.md)    
-  - [Explainability & Bias Detection](./responsible_ai.md#explainability--bias-detection)
+* [**Generative AI**](generative_ai.md)
+  - [Large Language Model](./generative_ai.md#large-language-model)
+  - [Stable Diffusion](./generative_ai.md#stable-diffusion)
+  - [Generative AI applications](./generative_ai.md#generative-ai-applications)
 
 * [**ML Domains**](ml_domains.md) - Deep dive on domains such as NLP, CV, Tabular, Audio and Reinforcement Learning
-  - [Large Language Model](./ml_domains.md#large-language-model)
-  - [Generative AI](./ml_domains.md#generative-ai)
   - [Computer Vision](./ml_domains.md#computer-vision)
   - [Natural Language Processing](./ml_domains.md#natural-language-processing)
   - [R](./ml_domains.md#r)
