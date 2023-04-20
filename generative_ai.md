@@ -13,6 +13,7 @@
 - [Blog] [Architect personalized generative AI SaaS applications on Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/architect-personalized-generative-ai-saas-applications-on-amazon-sagemaker/)
 - [Documentation] [Deep learning containers for large model inference](https://docs.aws.amazon.com/sagemaker/latest/dg/realtime-endpoints-large-model-dlc.html)
 - [Workshop] [Large Generative AI model hosting workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/bb62b5d7-313f-4733-88cd-9c1aa41c724d/en-US)
+- [Workshop] [Language Model Workshop for Financial Services](https://github.com/aws-samples/large-model-workshop-financial-services)
 - [Code] [JumpStart Foundation Models](https://github.com/aws/amazon-sagemaker-examples/tree/main/introduction_to_amazon_algorithms/jumpstart-foundation-models)
 - [Code] [Deployments for generative AI workshop](https://github.com/aws/amazon-sagemaker-examples/tree/main/inference/generativeai/llm-workshop)
 - [Code] [External] [Jumpstart Generative AI Examples](https://github.com/arunprsh/sagemaker-jumpstart-generative-ai-examples)
