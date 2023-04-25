@@ -49,5 +49,7 @@
 - [Blog] [Choose the best data source for your Amazon SageMaker training job](https://aws.amazon.com/blogs/machine-learning/choose-the-best-data-source-for-your-amazon-sagemaker-training-job/)
 - [Blog] [Scalable Medical Computer Vision Model Training - Part 1](https://aws.amazon.com/blogs/industries/scalable-medical-computer-vision-model-training-with-amazon-sagemaker-part-1/)
 - [Blog] [Scalable Medical Computer Vision Model Training - Part 2](https://aws.amazon.com/blogs/industries/scalable-medical-computer-vision-model-training-with-amazon-sagemaker-part-2)
+- [Blog] [Run PyTorch Lightning and native PyTorch DDP on Amazon SageMaker Training](https://aws.amazon.com/blogs/machine-learning/run-pytorch-lightning-and-native-pytorch-ddp-on-amazon-sagemaker-training-featuring-amazon-search/)
+- [Code] [SageMaker Distributed Training Workshop](https://github.com/aws-samples/sagemaker-distributed-training-workshop/tree/main)- several up-to-date distributed training examples
 - [Code] [Use SageMaker with Trainium and Inferentia](https://github.com/aws-samples/sagemaker-trainium-inferentia)
 
