@@ -47,13 +47,10 @@
   - [AutoML](./low_code_no_code_ml.md#automl)
   - [Data Wrangler](./low_code_no_code_ml.md#data-wrangler)
 
-* [**ML Governance**](ml_governance.md) - Data governance, model governance, security, cost
-  - [Security](./ml_governance.md#security)
-  - [Cost Tracking and Control](./ml_governance.md#cost-tracking--control)
-
 * [**Generative AI**](generative_ai.md) - deploy and use generative AI models
-  - [Large Language Model](./generative_ai.md#large-language-model)
-  - [Stable Diffusion](./generative_ai.md#stable-diffusion)
+  - [Train and deploy Foundational Models](./generative_ai.md#train-and-deploy-foundational-models)
+  - [prompt engineering and few shot/zero shot learning](./generative_ai.md#prompt-engineering-and-few-shotzero-shot-learning)
+  - [Fine tune Foundational Models](https://github.com/aws-samples/awesome-sagemaker/blob/main/generative_ai.md#fine-tune-foundational-models)
   - [Building Generative AI applications](./generative_ai.md#generative-ai-applications)
 
 * [**ML Domains**](ml_domains.md) - Deep dive on domains such as NLP, CV, Tabular, Audio and Reinforcement Learning
