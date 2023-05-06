@@ -51,7 +51,7 @@
   - [Train and deploy Foundational Models](./generative_ai.md#train-and-deploy-foundational-models)
   - [prompt engineering and few shot/zero shot learning](./generative_ai.md#prompt-engineering-and-few-shotzero-shot-learning)
   - [Fine tune Foundational Models](https://github.com/aws-samples/awesome-sagemaker/blob/main/generative_ai.md#fine-tune-foundational-models)
-  - [Building Generative AI applications](./generative_ai.md#generative-ai-applications)
+  - [Building Generative AI applications](./generative_ai.md#building-generative-ai-applications)
 
 * [**ML Domains**](ml_domains.md) - Deep dive on domains such as NLP, CV, Tabular, Audio and Reinforcement Learning
   - [Responsible AI](./ml_domains.md#responsible-ai)
