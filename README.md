@@ -55,6 +55,7 @@
 
 * [**ML Domains**](ml_domains.md) - Deep dive on domains such as NLP, CV, Tabular, Audio and Reinforcement Learning
   - [Responsible AI](./ml_domains.md#responsible-ai)
+  - [ML Governance](./ml_domains.md#ml-governance) ([Model Management](./ml_domains.md#model-management), [Security](./ml_domains.md#security), [Cost Tracking & Control](./ml_domains.md#cost-tracking--control))
   - [Computer Vision](./ml_domains.md#computer-vision)
   - [Natural Language Processing](./ml_domains.md#natural-language-processing)
   - [R](./ml_domains.md#r)
