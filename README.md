@@ -47,17 +47,15 @@
   - [AutoML](./low_code_no_code_ml.md#automl)
   - [Data Wrangler](./low_code_no_code_ml.md#data-wrangler)
 
-* [**ML Governance**](ml_governance.md) - Data governance, model governance, security, cost
-  - [Security](./ml_governance.md#security)
-  - [Cost Tracking and Control](./ml_governance.md#cost-tracking--control)
-
 * [**Generative AI**](generative_ai.md) - deploy and use generative AI models
-  - [Large Language Model](./generative_ai.md#large-language-model)
-  - [Stable Diffusion](./generative_ai.md#stable-diffusion)
-  - [Building Generative AI applications](./generative_ai.md#generative-ai-applications)
+  - [Train and deploy Foundational Models](./generative_ai.md#train-and-deploy-foundational-models)
+  - [prompt engineering and few shot/zero shot learning](./generative_ai.md#prompt-engineering-and-few-shotzero-shot-learning)
+  - [Fine tune Foundational Models](https://github.com/aws-samples/awesome-sagemaker/blob/main/generative_ai.md#fine-tune-foundational-models)
+  - [Building Generative AI applications](./generative_ai.md#building-generative-ai-applications)
 
 * [**ML Domains**](ml_domains.md) - Deep dive on domains such as NLP, CV, Tabular, Audio and Reinforcement Learning
   - [Responsible AI](./ml_domains.md#responsible-ai)
+  - [ML Governance](./ml_domains.md#ml-governance) ([Model Management](./ml_domains.md#model-management), [Security](./ml_domains.md#security), [Cost Tracking & Control](./ml_domains.md#cost-tracking--control))
   - [Computer Vision](./ml_domains.md#computer-vision)
   - [Natural Language Processing](./ml_domains.md#natural-language-processing)
   - [R](./ml_domains.md#r)
