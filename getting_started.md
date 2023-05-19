@@ -17,6 +17,7 @@
 ### Architecture Best Practices
 - [Docs] [SageMaker Studio Administration Best Practices](https://docs.aws.amazon.com/whitepapers/latest/sagemaker-studio-admin-best-practices/sagemaker-studio-admin-best-practices.html)
 - [Blog] [AWS Well-Architected Machine Learning Lens](https://aws.amazon.com/blogs/architecture/introducing-the-new-aws-well-architected-machine-learning-lens/)
+- [Docs] [AWS Account Management Reference Guide](https://docs.aws.amazon.com/accounts/latest/reference/welcome-multiple-accounts.html)
 
 ### ML Platform Setup
 - [Blog] [Dive deep into Amazon SageMaker Studio Notebooks architecture](https://aws.amazon.com/blogs/machine-learning/dive-deep-into-amazon-sagemaker-studio-notebook-architecture/)
