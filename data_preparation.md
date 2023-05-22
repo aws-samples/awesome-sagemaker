@@ -10,7 +10,7 @@
 - [Docs] [SageMaker Processing](https://sagemaker.readthedocs.io/en/stable/amazon_sagemaker_processing.html#amazon-sagemaker-processing)
 - [Code] [Spark Containers](https://github.com/aws/sagemaker-spark-container/blob/master/available_images.md)
 
-#### Large Scale Data Processing
+### Large Scale Data Processing
 - [Docs] [Spark in Processing Jobs](https://sagemaker.readthedocs.io/en/stable/amazon_sagemaker_processing.html#data-processing-with-spark)
 - [Docs] [Using Dask with SageMaker Processing](https://sagemaker-examples.readthedocs.io/en/latest/sagemaker_processing/feature_transformation_with_sagemaker_processing_dask/feature_transformation_with_sagemaker_processing_dask.html)
 - [Blog] [Prepare data at scale in Amazon SageMaker Studio using serverless AWS Glue interactive sessions](https://aws.amazon.com/blogs/machine-learning/prepare-data-at-scale-in-amazon-sagemaker-studio-using-serverless-aws-glue-interactive-sessions/)
