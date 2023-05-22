@@ -23,7 +23,8 @@
   - [ML Platform Setup](./getting_started.md#ml-platform-setup)
 
 * [**Data Preparation**](./data_preparation.md) - Understand the options to prepare data for machine learning  
-  - [Data Processing](./data_preparation.md#data-processing)     
+  - [Data Processing](./data_preparation.md#data-processing)  
+  - [Large Scale Data Processing](./data_preparation.md#large-scale-data-processing)   
   - [Data Labeling](./data_preparation.md#data-labeling)
 
 * [**Building ML Models**](building_ml_models.md) - Contains resources for running notebooks and training models
