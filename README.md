@@ -22,10 +22,13 @@
   - [Architecture Best Practices](./getting_started.md#architecture-best-practices) 
   - [ML Platform Setup](./getting_started.md#ml-platform-setup)
 
-* [**Building ML Models**](building_ml_models.md) - Contains resources used for data preparation, running notebooks and training models
+* [**Data Preparation**](./data_preparation.md) - Understand the options to prepare data for machine learning  
+  - [Data Processing](./data_preparation.md#data-processing)  
+  - [Large Scale Data Processing](./data_preparation.md#large-scale-data-processing)   
+  - [Data Labeling](./data_preparation.md#data-labeling)
+
+* [**Building ML Models**](building_ml_models.md) - Contains resources for running notebooks and training models
   - [SDKs and Infrastructure-as-code](./building_ml_models.md#sdks--infrastructure-as-code)
-  - [Data Processing](./building_ml_models.md#data-processing)     
-  - [Data Labeling](./building_ml_models.md#data-labeling)
   - [Training](./building_ml_models.md#training)
 
 * [**Deploying ML Models**](deploying_ml_models.md) - Different ways to deploy models and their best practices
