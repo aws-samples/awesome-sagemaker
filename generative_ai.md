@@ -16,9 +16,10 @@
 - [Code] [Deploy and use FLAN T5 models ](https://github.com/aws/amazon-sagemaker-examples/blob/main/introduction_to_amazon_algorithms/jumpstart-foundation-models/text2text-generation-flan-t5.ipynb)
 - [Code] [Deploy InstructPix2Pix](https://github.com/aws/amazon-sagemaker-examples/tree/main/advanced_functionality/huggingface_deploy_instructpix2pix)
 - [Code] [Serve gpt-j-6B on SageMaker with DJLServing](https://github.com/aws/amazon-sagemaker-examples/blob/main/inference/generativeai/deepspeed/GPT-J-6B_DJLServing_with_PySDK.ipynb)
-- [Code] [Deploy Falcon 7B and 40B on SageMaker](https://github.com/aws/amazon-sagemaker-examples/tree/main/inference/generativeai/llm-workshop/lab10-falcon-40b-and-7b)
-- [Code] [Deploy OpenLLama on SageMaker](https://github.com/aws/amazon-sagemaker-examples/blob/main/inference/generativeai/llm-workshop/lab10-open-llama/open-llama-7b/open_llama_7b.ipynb)
+- [Code] [Deploy Falcon 7B and 40B on SageMaker](https://github.com/aws/amazon-sagemaker-examples/tree/main/inference/generativeai/llm-workshop/lab10-falcon-40b-and-7b), [Falcon 7B and 40B using Jumpstart](https://github.com/aws/amazon-sagemaker-examples/blob/main/introduction_to_amazon_algorithms/jumpstart-foundation-models/text-generation-falcon.ipynb)
+- [Code] [Deploy OpenLLama on SageMaker](https://github.com/aws/amazon-sagemaker-examples/blob/main/inference/generativeai/llm-workshop/lab10-open-llama/open-llama-7b/open_llama_7b.ipynb) , [Open LLama using Jumpstart](https://github.com/aws/amazon-sagemaker-examples/blob/main/introduction_to_amazon_algorithms/jumpstart-foundation-models/text-generation-open-llama.ipynb)
 - [Code] [Deploy Stable Diffusion on Inferentia2](https://github.com/aws/amazon-sagemaker-examples/blob/main/inference/generativeai/llm-workshop/lab9-inf2-stable-diffusion/SageMaker-SD21-INF2.ipynb)
+- [Code] [Deploy Dolly-12B on SageMaker](https://github.com/aws/amazon-sagemaker-examples/blob/main/inference/generativeai/llm-workshop/deploy-dolly-12b/dolly-12b-deepspeed-sagemaker.ipynb)
 
 
 
