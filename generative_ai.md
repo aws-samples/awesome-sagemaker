@@ -14,6 +14,9 @@
 - [Blog] [External] [Create Your Own Large Language Model Playground in SageMaker Studio](https://towardsdatascience.com/create-your-own-large-language-model-playground-in-sagemaker-studio-1be5846c5089)
 - [Code] [Deploy and use BloomZ 7b1](https://github.com/aws/amazon-sagemaker-examples/blob/main/introduction_to_amazon_algorithms/jumpstart-foundation-models/text2text-generation-bloomz.ipynb)
 - [Code] [Deploy and use FLAN T5 models ](https://github.com/aws/amazon-sagemaker-examples/blob/main/introduction_to_amazon_algorithms/jumpstart-foundation-models/text2text-generation-flan-t5.ipynb)
+- [Code] [Deploy InstructPix2Pix](https://github.com/aws/amazon-sagemaker-examples/tree/main/advanced_functionality/huggingface_deploy_instructpix2pix)
+- [Code] [Serve gpt-j-6B on SageMaker with DJLServing](https://github.com/aws/amazon-sagemaker-examples/blob/main/inference/generativeai/deepspeed/GPT-J-6B_DJLServing_with_PySDK.ipynb)
+- [Code] [Deploy Falcon 7B and 40B on SageMaker](https://github.com/aws/amazon-sagemaker-examples/tree/main/inference/generativeai/llm-workshop/lab10-falcon-40b-and-7b)
 
 
 
