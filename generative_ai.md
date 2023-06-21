@@ -17,6 +17,8 @@
 - [Code] [Deploy InstructPix2Pix](https://github.com/aws/amazon-sagemaker-examples/tree/main/advanced_functionality/huggingface_deploy_instructpix2pix)
 - [Code] [Serve gpt-j-6B on SageMaker with DJLServing](https://github.com/aws/amazon-sagemaker-examples/blob/main/inference/generativeai/deepspeed/GPT-J-6B_DJLServing_with_PySDK.ipynb)
 - [Code] [Deploy Falcon 7B and 40B on SageMaker](https://github.com/aws/amazon-sagemaker-examples/tree/main/inference/generativeai/llm-workshop/lab10-falcon-40b-and-7b)
+- [Code] [Deploy OpenLLama on SageMaker](https://github.com/aws/amazon-sagemaker-examples/blob/main/inference/generativeai/llm-workshop/lab10-open-llama/open-llama-7b/open_llama_7b.ipynb)
+- [Code] [Deploy Stable Diffusion on Inferentia2](https://github.com/aws/amazon-sagemaker-examples/blob/main/inference/generativeai/llm-workshop/lab9-inf2-stable-diffusion/SageMaker-SD21-INF2.ipynb)
 
 
 
