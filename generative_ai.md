@@ -35,6 +35,7 @@
 
 ### Building Generative AI applications
 - [Blog] [Quickly build high-accuracy Generative AI applications on enterprise data using Amazon Kendra, LangChain, and large language models](https://aws.amazon.com/blogs/machine-learning/quickly-build-high-accuracy-generative-ai-applications-on-enterprise-data-using-amazon-kendra-langchain-and-large-language-models/)
+- [Blog] [Build custom chatbot applications using OpenChatkit models on Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/build-custom-chatbot-applications-using-openchatkit-models-on-amazon-sagemaker/)
 - [Blog] [Virtual fashion styling with generative AI using Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/virtual-fashion-styling-with-generative-ai-using-amazon-sagemaker/)
 - [Blog] [Architect personalized generative AI SaaS applications on Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/architect-personalized-generative-ai-saas-applications-on-amazon-sagemaker/)
 - [Workshop] [Language Model Workshop for Financial Services](https://github.com/aws-samples/large-model-workshop-financial-services)
