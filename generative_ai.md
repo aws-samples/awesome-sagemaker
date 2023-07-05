@@ -14,6 +14,12 @@
 - [Blog] [External] [Create Your Own Large Language Model Playground in SageMaker Studio](https://towardsdatascience.com/create-your-own-large-language-model-playground-in-sagemaker-studio-1be5846c5089)
 - [Code] [Deploy and use BloomZ 7b1](https://github.com/aws/amazon-sagemaker-examples/blob/main/introduction_to_amazon_algorithms/jumpstart-foundation-models/text2text-generation-bloomz.ipynb)
 - [Code] [Deploy and use FLAN T5 models ](https://github.com/aws/amazon-sagemaker-examples/blob/main/introduction_to_amazon_algorithms/jumpstart-foundation-models/text2text-generation-flan-t5.ipynb)
+- [Code] [Deploy InstructPix2Pix](https://github.com/aws/amazon-sagemaker-examples/tree/main/advanced_functionality/huggingface_deploy_instructpix2pix)
+- [Code] [Serve gpt-j-6B on SageMaker with DJLServing](https://github.com/aws/amazon-sagemaker-examples/blob/main/inference/generativeai/deepspeed/GPT-J-6B_DJLServing_with_PySDK.ipynb)
+- [Code] [Deploy Falcon 7B and 40B on SageMaker](https://github.com/aws/amazon-sagemaker-examples/tree/main/inference/generativeai/llm-workshop/lab10-falcon-40b-and-7b), [Falcon 7B and 40B using Jumpstart](https://github.com/aws/amazon-sagemaker-examples/blob/main/introduction_to_amazon_algorithms/jumpstart-foundation-models/text-generation-falcon.ipynb)
+- [Code] [Deploy OpenLLama on SageMaker](https://github.com/aws/amazon-sagemaker-examples/blob/main/inference/generativeai/llm-workshop/lab10-open-llama/open-llama-7b/open_llama_7b.ipynb) , [Open LLama using Jumpstart](https://github.com/aws/amazon-sagemaker-examples/blob/main/introduction_to_amazon_algorithms/jumpstart-foundation-models/text-generation-open-llama.ipynb)
+- [Code] [Deploy Stable Diffusion on Inferentia2](https://github.com/aws/amazon-sagemaker-examples/blob/main/inference/generativeai/llm-workshop/lab9-inf2-stable-diffusion/SageMaker-SD21-INF2.ipynb)
+- [Code] [Deploy Dolly-12B on SageMaker](https://github.com/aws/amazon-sagemaker-examples/blob/main/inference/generativeai/llm-workshop/deploy-dolly-12b/dolly-12b-deepspeed-sagemaker.ipynb)
 
 
 
@@ -29,6 +35,7 @@
 
 ### Building Generative AI applications
 - [Blog] [Quickly build high-accuracy Generative AI applications on enterprise data using Amazon Kendra, LangChain, and large language models](https://aws.amazon.com/blogs/machine-learning/quickly-build-high-accuracy-generative-ai-applications-on-enterprise-data-using-amazon-kendra-langchain-and-large-language-models/)
+- [Blog] [Build custom chatbot applications using OpenChatkit models on Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/build-custom-chatbot-applications-using-openchatkit-models-on-amazon-sagemaker/)
 - [Blog] [Virtual fashion styling with generative AI using Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/virtual-fashion-styling-with-generative-ai-using-amazon-sagemaker/)
 - [Blog] [Architect personalized generative AI SaaS applications on Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/architect-personalized-generative-ai-saas-applications-on-amazon-sagemaker/)
 - [Workshop] [Language Model Workshop for Financial Services](https://github.com/aws-samples/large-model-workshop-financial-services)

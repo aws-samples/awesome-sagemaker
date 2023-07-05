@@ -13,6 +13,7 @@
 
 
 ### Training
+- [Code] [Tensorboard on SageMaker](https://github.com/aws/amazon-sagemaker-examples/tree/main/training/distributed_training)
 - [Docs] [Supported pre-built containers/frameworks (script mode)](https://sagemaker.readthedocs.io/en/stable/frameworks/index.html)
 - [Docs] [SageMaker Environment Variables](https://github.com/aws/sagemaker-training-toolkit/blob/master/ENVIRONMENT_VARIABLES.md)
 - [Docs] [How Amazon SageMaker Provides Training Information](https://docs.aws.amazon.com/sagemaker/latest/dg/your-algorithms-training-algo-running-container.html)
@@ -34,5 +35,6 @@
 - [Blog] [Scalable Medical Computer Vision Model Training - Part 2](https://aws.amazon.com/blogs/industries/scalable-medical-computer-vision-model-training-with-amazon-sagemaker-part-2)
 - [Blog] [Run PyTorch Lightning and native PyTorch DDP on Amazon SageMaker Training](https://aws.amazon.com/blogs/machine-learning/run-pytorch-lightning-and-native-pytorch-ddp-on-amazon-sagemaker-training-featuring-amazon-search/)
 - [Code] [SageMaker Distributed Training Workshop](https://github.com/aws-samples/sagemaker-distributed-training-workshop/tree/main)- several up-to-date distributed training examples
+- [Code] [SageMaker Distributed Training examples](https://github.com/aws/amazon-sagemaker-examples/tree/main/training/distributed_training) - Several examples on distributed training
 - [Code] [Use SageMaker with Trainium and Inferentia](https://github.com/aws-samples/sagemaker-trainium-inferentia)
 
