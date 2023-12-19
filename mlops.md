@@ -5,6 +5,7 @@
 ## MLOps
 
 ### MLOps Foundations
+- [Blog] [Build an end-to-end MLOps pipeline using Amazon SageMaker Pipelines, GitHub, and GitHub Actions] (https://aws.amazon.com/blogs/machine-learning/build-an-end-to-end-mlops-pipeline-using-amazon-sagemaker-pipelines-github-and-github-actions/)
 - [Blog] [MLOps foundation roadmap for enterprises with Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/mlops-foundation-roadmap-for-enterprises-with-amazon-sagemaker/)
 - [Code] [SageMaker Projects Repo for MLOps](https://github.com/aws-samples/sagemaker-custom-project-templates)
 - [Video] [Automate MLOps with SageMaker Projects](https://www.youtube.com/watch?v=3_cHnk9VSfQ)
