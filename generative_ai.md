@@ -5,6 +5,9 @@
 ## Generative AI
 
 ### Train and deploy Foundational Models
+- [Blog] [Fine-tune Llama 2 using QLoRA and Deploy it on Amazon SageMaker with AWS Inferentia2](https://aws.amazon.com/blogs/machine-learning/fine-tune-llama-2-using-qlora-and-deploy-it-on-amazon-sagemaker-with-aws-inferentia2/)
+- [Blog] [Create a web UI to interact with LLMs using Amazon SageMaker JumpStart](https://aws.amazon.com/blogs/machine-learning/create-a-web-ui-to-interact-with-llms-using-amazon-sagemaker-jumpstart/)
+- [Blog] [Enable faster training with Amazon SageMaker data parallel library](https://aws.amazon.com/blogs/machine-learning/enable-faster-training-with-amazon-sagemaker-data-parallel-library/)
 - [Code] [JumpStart Foundation Models Examples](https://github.com/aws/amazon-sagemaker-examples/tree/main/introduction_to_amazon_algorithms/jumpstart-foundation-models)
 - [Blog] [Deploy large models at high performance using FasterTransformer on Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/deploy-large-models-at-high-performance-using-fastertransformer-on-amazon-sagemaker/)
 - [Blog] [Training large language models on Amazon SageMaker: Best practices](https://aws.amazon.com/blogs/machine-learning/training-large-language-models-on-amazon-sagemaker-best-practices/)
@@ -34,6 +37,7 @@
 - [Code] [Fine-tuning text generation GPT-J 6B model on domain specific dataset](https://github.com/aws/amazon-sagemaker-examples/blob/main/introduction_to_amazon_algorithms/jumpstart-foundation-models/domain-adaption-finetuning-gpt-j-6b.ipynb)
 
 ### Building Generative AI applications
+- [Code] [AWS Generative AI CDK Constructs](https://github.com/awslabs/generative-ai-cdk-constructs)
 - [Blog] [Quickly build high-accuracy Generative AI applications on enterprise data using Amazon Kendra, LangChain, and large language models](https://aws.amazon.com/blogs/machine-learning/quickly-build-high-accuracy-generative-ai-applications-on-enterprise-data-using-amazon-kendra-langchain-and-large-language-models/)
 - [Blog] [Build custom chatbot applications using OpenChatkit models on Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/build-custom-chatbot-applications-using-openchatkit-models-on-amazon-sagemaker/)
 - [Blog] [Virtual fashion styling with generative AI using Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/virtual-fashion-styling-with-generative-ai-using-amazon-sagemaker/)
